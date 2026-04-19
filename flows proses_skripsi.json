@@ -1,0 +1,3802 @@
+[
+    {
+        "id": "flow_emqx_event",
+        "type": "tab",
+        "label": "EMQX Client Connect & Disconnect",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "5e92caaf27235ee2",
+        "type": "tab",
+        "label": "Getaran",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "03812dbd1e6bc1ee",
+        "type": "tab",
+        "label": "lokasi kereta",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "1038aba79d17f7d1",
+        "type": "group",
+        "z": "5e92caaf27235ee2",
+        "name": "SENSOR VIBRASI 1",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "d3b09a014a6eb784",
+            "922d7787efd0113f",
+            "fc7710d1a67aa3d7",
+            "722aade5d2f2f4b4",
+            "2eea20dcf287a8b1",
+            "bf5637baa9f78290",
+            "6a4ef45c29fd8491",
+            "410808be4b46bcd9",
+            "8133c2d42a2d9ef6",
+            "a6c3fdb0b819cd81",
+            "173d664fa1a5458a",
+            "bf0636a3abf74b46",
+            "9f896981b97b6d2e",
+            "fac5f7cba35b8177",
+            "3e82363893560390",
+            "2cfd4a09be2fa883",
+            "a1ce47042b7ebeda",
+            "405e036e4daf4c92",
+            "64b138458162c54e",
+            "68f8f677398669b3"
+        ],
+        "x": 34,
+        "y": -1,
+        "w": 1352,
+        "h": 882
+    },
+    {
+        "id": "5faf3c50468d128b",
+        "type": "group",
+        "z": "5e92caaf27235ee2",
+        "name": "SENSOR VIBRASI 3",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "0e4e3bbaeb66358c",
+            "efa4f572c3cf8e19",
+            "26bb021dc574fa5d",
+            "76d56f9ebf9ca5bc",
+            "8a906170351d9ee6",
+            "6d28c0d9466d5898",
+            "5c862fddbb3bcc86",
+            "68546475ddd890c5",
+            "10df9c6ce9d8cd08",
+            "7ccef704fa7976c4",
+            "e6ee5eb51e906cfa",
+            "327d943b5382a17f",
+            "670c87dd143d2c64",
+            "ca6c2bb05003148d",
+            "fa0c9bdf5a2ccf0c",
+            "316caa26625f30e9",
+            "fb75824dbb4d2021",
+            "d68a0a141c253b44",
+            "df5862694ae28007"
+        ],
+        "x": 2714,
+        "y": 179,
+        "w": 1012,
+        "h": 662
+    },
+    {
+        "id": "83df340fa44f7595",
+        "type": "group",
+        "z": "5e92caaf27235ee2",
+        "name": "SENSOR VIBRASI 4",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "3c7811536b7abf37",
+            "6607b241cf94b37d",
+            "51c2c9734aad53cd",
+            "3113399706b2a9d4",
+            "7404a6cd445e0e17",
+            "4c14171619f28d44",
+            "5f8f44b36a09b6b0",
+            "66d90aa02ffca52a",
+            "2a4ecf07ed267ea4",
+            "89cd057505630e0e",
+            "2ed831c69b40135b",
+            "9fa906952b2c5309",
+            "9f69b3b04ab09397",
+            "02f88cc427bdf265",
+            "01d0438bcd3a18ab",
+            "e30bd7e7a26090d5",
+            "3dae0ed1956d0fe5",
+            "24eadd70b409825c",
+            "6d6ae6ebf2c2d7f6"
+        ],
+        "x": 4014,
+        "y": 219,
+        "w": 1012,
+        "h": 622
+    },
+    {
+        "id": "cbac2e7fb20e7ed1",
+        "type": "group",
+        "z": "03812dbd1e6bc1ee",
+        "name": "SENSOR_TRACKING",
+        "style": {
+            "label": true,
+            "color": "#ff0000"
+        },
+        "nodes": [
+            "574b3a4f5dd360d7",
+            "7f9efd5b9790a0d5",
+            "de6bac2e4dba7560",
+            "650922678eb21ebe",
+            "bbf8ce83758d0b4d",
+            "6c4e99d5d9c2654b",
+            "3ad097d5d0996291",
+            "a598c15c01afdaa0"
+        ],
+        "x": 94,
+        "y": 119,
+        "w": 752,
+        "h": 322
+    },
+    {
+        "id": "c0b43d2d3bf4b154",
+        "type": "group",
+        "z": "5e92caaf27235ee2",
+        "name": "SENSOR VIBRASI 2",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "348baf8fd8ffdc74",
+            "074c38191bed4ea4",
+            "c44619968c724f5e",
+            "cd691c139ea47c34",
+            "f901beab55e0e643",
+            "265914d4797287a4",
+            "e38ac0c4de2c453e",
+            "46a7f98db7868542",
+            "75fc574ea9c7c3ac",
+            "06fa9edd01cb1f60",
+            "ee05afb02bba48af",
+            "037abfc7857b7634",
+            "2c16111036778946",
+            "0f4837519b6c358f",
+            "74cf69be6c2955e4",
+            "a565f66c44eedd08",
+            "7b15b03ec487d671",
+            "b10b7de58145b17e",
+            "fabf664c531284f0"
+        ],
+        "x": 1554,
+        "y": 119,
+        "w": 1092,
+        "h": 642
+    },
+    {
+        "id": "41fbb0eae22949ba",
+        "type": "group",
+        "z": "5e92caaf27235ee2",
+        "name": "Flow Process Unduh Data",
+        "style": {
+            "label": true,
+            "color": "#ff0000"
+        },
+        "nodes": [
+            "982be931a4a0ea91",
+            "ea9ab40ca8a9b5c1",
+            "6b82bf3aa7ac4415",
+            "a073728e615edda3",
+            "61edf767ec031769"
+        ],
+        "x": 74,
+        "y": 979,
+        "w": 972,
+        "h": 142
+    },
+    {
+        "id": "4cfc3688e72f2f9f",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "103.150.93.73",
+        "port": 1883,
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": 4,
+        "keepalive": 60,
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "6d86e4bf62e3405c",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "mqtt://localhost:1883",
+        "port": 1883,
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": 4,
+        "keepalive": 60,
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "96eb7b829322eadf",
+        "type": "ui-theme",
+        "name": "Theme Name",
+        "colors": {
+            "surface": "#0d8255",
+            "primary": "#0094ce",
+            "bgPage": "#fdfcfc",
+            "groupBg": "#ffffff",
+            "groupOutline": "#cccccc"
+        },
+        "sizes": {
+            "density": "default",
+            "pagePadding": "12px",
+            "groupGap": "12px",
+            "groupBorderRadius": "4px",
+            "widgetGap": "12px"
+        }
+    },
+    {
+        "id": "61b90f2f14370ab8",
+        "type": "ui-theme",
+        "name": "Default Theme",
+        "colors": {
+            "surface": "#2c3e50",
+            "primary": "#f4f6f9",
+            "bgPage": "#f4f6f9",
+            "groupBg": "#ffffff",
+            "groupOutline": "#f4f6f9"
+        },
+        "sizes": {
+            "density": "default",
+            "pagePadding": "12px",
+            "groupGap": "12px",
+            "groupBorderRadius": "4px",
+            "widgetGap": "12px"
+        }
+    },
+    {
+        "id": "490726ecef2fe9e5",
+        "type": "ui-base",
+        "name": "My Dashboard",
+        "path": "/dashboard",
+        "appIcon": "",
+        "includeClientData": true,
+        "acceptsClientConfig": [
+            "ui-notification",
+            "ui-control"
+        ],
+        "showPathInSidebar": false,
+        "headerContent": "page",
+        "navigationStyle": "default",
+        "titleBarStyle": "default",
+        "showReconnectNotification": true,
+        "notificationDisplayTime": 1,
+        "showDisconnectNotification": true,
+        "allowInstall": false
+    },
+    {
+        "id": "11f570c4c5f5cb36",
+        "type": "ui-page",
+        "name": "SENSOR VIBRASI 1",
+        "ui": "490726ecef2fe9e5",
+        "path": "/page6",
+        "icon": "home",
+        "layout": "grid",
+        "theme": "61b90f2f14370ab8",
+        "breakpoints": [
+            {
+                "name": "Default",
+                "px": "0",
+                "cols": "3"
+            },
+            {
+                "name": "Tablet",
+                "px": "576",
+                "cols": "6"
+            },
+            {
+                "name": "Small Desktop",
+                "px": "768",
+                "cols": "9"
+            },
+            {
+                "name": "Desktop",
+                "px": "1024",
+                "cols": "12"
+            }
+        ],
+        "order": 1,
+        "className": "",
+        "visible": "true",
+        "disabled": "false"
+    },
+    {
+        "id": "2f6259eff5e18292",
+        "type": "ui-group",
+        "name": "DOMAIN FREKUENSI",
+        "page": "11f570c4c5f5cb36",
+        "width": 6,
+        "height": 1,
+        "order": 2,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "eb228f3d357f71ab",
+        "type": "ui-group",
+        "name": "INDEKS KENYAMANAN BERKENDARA",
+        "page": "11f570c4c5f5cb36",
+        "width": 6,
+        "height": 1,
+        "order": 3,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "107e2a9fd72b8eb8",
+        "type": "ui-group",
+        "name": "PETA LOKASI",
+        "page": "11f570c4c5f5cb36",
+        "width": 6,
+        "height": 1,
+        "order": 4,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "40c84f18168fb2b1",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "http://103.150.93.73:1883/",
+        "port": 1883,
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": 4,
+        "keepalive": 60,
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "43eca4da50d598eb",
+        "type": "ui-page",
+        "name": "UNDUH DATA",
+        "ui": "490726ecef2fe9e5",
+        "path": "/page2",
+        "icon": "home",
+        "layout": "grid",
+        "theme": "96eb7b829322eadf",
+        "breakpoints": [
+            {
+                "name": "Default",
+                "px": "0",
+                "cols": "3"
+            },
+            {
+                "name": "Tablet",
+                "px": "576",
+                "cols": "6"
+            },
+            {
+                "name": "Small Desktop",
+                "px": "768",
+                "cols": "9"
+            },
+            {
+                "name": "Desktop",
+                "px": "1024",
+                "cols": "12"
+            }
+        ],
+        "order": 5,
+        "className": "",
+        "visible": "true",
+        "disabled": "false"
+    },
+    {
+        "id": "feb3e76cb1234871",
+        "type": "ui-group",
+        "name": "DATA GETARAN",
+        "page": "43eca4da50d598eb",
+        "width": 6,
+        "height": 1,
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "094d8742290fdf98",
+        "type": "ui-page",
+        "name": "SENSOR VIBRASI 3",
+        "ui": "490726ecef2fe9e5",
+        "path": "/page4",
+        "icon": "home",
+        "layout": "grid",
+        "theme": "96eb7b829322eadf",
+        "breakpoints": [
+            {
+                "name": "Default",
+                "px": "0",
+                "cols": "3"
+            },
+            {
+                "name": "Tablet",
+                "px": "576",
+                "cols": "6"
+            },
+            {
+                "name": "Small Desktop",
+                "px": "768",
+                "cols": "9"
+            },
+            {
+                "name": "Desktop",
+                "px": "1024",
+                "cols": "12"
+            }
+        ],
+        "order": 3,
+        "className": "",
+        "visible": "true",
+        "disabled": "false"
+    },
+    {
+        "id": "b6f34eb5a325b0d3",
+        "type": "ui-page",
+        "name": "SENSOR VIBRASI 4",
+        "ui": "490726ecef2fe9e5",
+        "path": "/page5",
+        "icon": "home",
+        "layout": "grid",
+        "theme": "96eb7b829322eadf",
+        "breakpoints": [
+            {
+                "name": "Default",
+                "px": "0",
+                "cols": "3"
+            },
+            {
+                "name": "Tablet",
+                "px": "576",
+                "cols": "6"
+            },
+            {
+                "name": "Small Desktop",
+                "px": "768",
+                "cols": "9"
+            },
+            {
+                "name": "Desktop",
+                "px": "1024",
+                "cols": "12"
+            }
+        ],
+        "order": 4,
+        "className": "",
+        "visible": "true",
+        "disabled": "false"
+    },
+    {
+        "id": "1b4cfc7c3e257023",
+        "type": "ui-group",
+        "name": "DOMAIN WAKTU",
+        "page": "094d8742290fdf98",
+        "width": 6,
+        "height": 1,
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "51cc674be9e5cea1",
+        "type": "ui-group",
+        "name": "DOMAIN WAKTU",
+        "page": "11f570c4c5f5cb36",
+        "width": 6,
+        "height": 1,
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "57505b5eda884ad7",
+        "type": "ui-group",
+        "name": "DOMAIN FREKUENSI",
+        "page": "094d8742290fdf98",
+        "width": 6,
+        "height": 1,
+        "order": 2,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "343cd45bbc762040",
+        "type": "ui-group",
+        "name": "INDEKS KENYAMANAN BERKENDARA",
+        "page": "094d8742290fdf98",
+        "width": 6,
+        "height": 1,
+        "order": 3,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "90f1575b45810151",
+        "type": "ui-group",
+        "name": "PETA LOKASI",
+        "page": "094d8742290fdf98",
+        "width": 6,
+        "height": 1,
+        "order": 4,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "39dc0ce35aec4ffc",
+        "type": "ui-group",
+        "name": "DOMAIN WAKTU",
+        "page": "b6f34eb5a325b0d3",
+        "width": 6,
+        "height": 1,
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "ad5b10d981bd650e",
+        "type": "ui-group",
+        "name": "DOMAIN FREKUENSI",
+        "page": "b6f34eb5a325b0d3",
+        "width": 6,
+        "height": 1,
+        "order": 2,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "87e9a16cbc696264",
+        "type": "ui-group",
+        "name": "INDEKS KENYAMANAN BERKENDARA",
+        "page": "b6f34eb5a325b0d3",
+        "width": 6,
+        "height": 1,
+        "order": 3,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "76432a22132b804f",
+        "type": "ui-group",
+        "name": "PETA LOKASI",
+        "page": "b6f34eb5a325b0d3",
+        "width": 6,
+        "height": 1,
+        "order": 4,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "116915a8d5b83825",
+        "type": "ui-page",
+        "name": "SENSOR VIBRASI 2",
+        "ui": "490726ecef2fe9e5",
+        "path": "/page7",
+        "icon": "home",
+        "layout": "grid",
+        "theme": "96eb7b829322eadf",
+        "breakpoints": [
+            {
+                "name": "Default",
+                "px": "0",
+                "cols": "3"
+            },
+            {
+                "name": "Tablet",
+                "px": "576",
+                "cols": "6"
+            },
+            {
+                "name": "Small Desktop",
+                "px": "768",
+                "cols": "9"
+            },
+            {
+                "name": "Desktop",
+                "px": "1024",
+                "cols": "12"
+            }
+        ],
+        "order": 2,
+        "className": "",
+        "visible": "true",
+        "disabled": "false"
+    },
+    {
+        "id": "32f69a7b5cccc6b3",
+        "type": "ui-group",
+        "name": "DOMAIN WAKTU",
+        "page": "116915a8d5b83825",
+        "width": 6,
+        "height": 1,
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "3ed5d8e3067c8fb0",
+        "type": "ui-group",
+        "name": "DOMIAN FREKUENSI",
+        "page": "116915a8d5b83825",
+        "width": 6,
+        "height": 1,
+        "order": 2,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "cd30dfadafd1f9a7",
+        "type": "ui-group",
+        "name": "INDEKS KENAYAMAN BERKENDARA",
+        "page": "116915a8d5b83825",
+        "width": 6,
+        "height": 1,
+        "order": 3,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "228f6548771dd16d",
+        "type": "ui-group",
+        "name": "PETA LOKASI",
+        "page": "116915a8d5b83825",
+        "width": 6,
+        "height": 1,
+        "order": 4,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "a47fbbe6b5ebcbd7",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "addres/ broker : w865f48f.ala.asia-southeast1.emqxsl.com",
+        "port": "8883",
+        "tls": "",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": true,
+        "protocolVersion": 4,
+        "keepalive": 60,
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "53b94cd5f82dff45",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "w865f48f.ala.asia-southeast1.emqxsl.com",
+        "port": "8883",
+        "tls": "",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": true,
+        "protocolVersion": 4,
+        "keepalive": 60,
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "482b930c2d72f591",
+        "type": "influxdb",
+        "hostname": "127.0.0.1",
+        "port": 8086,
+        "protocol": "http",
+        "database": "database",
+        "name": "",
+        "usetls": false,
+        "tls": "",
+        "influxdbVersion": "2.0",
+        "url": "http://localhost:8086",
+        "timeout": 10,
+        "rejectUnauthorized": true
+    },
+    {
+        "id": "68d6e85445db4f0a",
+        "type": "influxdb",
+        "hostname": "103.150.93.73",
+        "port": 8086,
+        "protocol": "http",
+        "database": "database",
+        "name": "",
+        "usetls": false,
+        "tls": "",
+        "influxdbVersion": "2.0",
+        "url": "http://103.150.93.73:8086",
+        "timeout": 10,
+        "rejectUnauthorized": true
+    },
+    {
+        "id": "mqtt_events",
+        "type": "mqtt in",
+        "z": "flow_emqx_event",
+        "name": "EMQX Events",
+        "topic": "event/#",
+        "qos": "0",
+        "datatype": "auto-detect",
+        "broker": "40c84f18168fb2b1",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 250,
+        "y": 180,
+        "wires": [
+            [
+                "func_connect"
+            ]
+        ]
+    },
+    {
+        "id": "func_connect",
+        "type": "function",
+        "z": "flow_emqx_event",
+        "name": "Format CONNECT",
+        "func": "let d = msg.payload;\n\nif (msg.topic === \"event/connected\") {\n  msg.payload = {\n    content:\n      `🟢 MQTT CONNECTED | Client: ${d.clientid} | IP: ${d.ipaddress || \"-\"} | Time: ${new Date(d.connected_at).toLocaleString()}`\n  };\n}\nelse if (msg.topic === \"event/disconnected\") {\n  msg.payload = {\n    content:\n      `🔴 MQTT DISCONNECTED | Client: ${d.clientid} | Reason: ${d.reason || \"unknown\"} | Time: ${new Date(d.disconnected_at).toLocaleString()}`\n  };\n}\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 470,
+        "y": 180,
+        "wires": [
+            [
+                "discord_http"
+            ]
+        ]
+    },
+    {
+        "id": "discord_http",
+        "type": "http request",
+        "z": "flow_emqx_event",
+        "name": "Send to Discord",
+        "method": "POST",
+        "ret": "ignore",
+        "paytoqs": "ignore",
+        "url": "https://discord.com/api/webhooks/1319923065471107094/QfP1_rDD4lNodeCiY2RgeyM9aTal3QQvvxA8_d5p8L24a5a_02TVFkEpGjI-RhgoCSB2",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [
+            {
+                "keyType": "other",
+                "keyValue": "Content-Type",
+                "valueType": "other",
+                "valueValue": "application/json"
+            }
+        ],
+        "x": 700,
+        "y": 180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d3b09a014a6eb784",
+        "type": "mqtt in",
+        "z": "5e92caaf27235ee2",
+        "g": "1038aba79d17f7d1",
+        "name": "Data Getaran Masuk",
+        "topic": "node-1",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "4cfc3688e72f2f9f",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 150,
+        "y": 220,
+        "wires": [
+            [
+                "6a4ef45c29fd8491",
+                "922d7787efd0113f",
+                "fac5f7cba35b8177"
+            ]
+        ]
+    },
+    {
+        "id": "922d7787efd0113f",
+        "type": "function",
+        "z": "5e92caaf27235ee2",
+        "g": "1038aba79d17f7d1",
+        "name": "Domian Waktu",
+        "func": "// Mengambil array dari payload\nvar dataX = msg.payload.x;\nvar dataY = msg.payload.y;\nvar dataZ = msg.payload.z;\n\nfunction getPeak(arr) {\n    if (!arr || !Array.isArray(arr) || arr.length === 0) return 0;\n    \n    var peak = arr[0];\n    for (var i = 1; i < arr.length; i++) {\n        // Bandingkan kekuatan getaran (magnitudo) tanpa menghilangkan tanda +/-\n        if (Math.abs(arr[i]) > Math.abs(peak)) {\n            peak = arr[i];\n        }\n    }\n    return parseFloat(peak.toFixed(3));\n}\n\n// Menghitung nilai puncak (tetap mempertahankan tanda +/-)\nvar px = getPeak(dataX);\nvar py = getPeak(dataY);\nvar pz = getPeak(dataZ);\n\n// Output\nreturn [\n    { payload: px, topic: \"Sumbu_X\" }, \n    { payload: py, topic: \"Sumbu_Y\" }, \n    { payload: pz, topic: \"Sumbu_Z\" }\n];\n// Di akhir function peak, tambahkan ini:\nvar msgAll = { payload: { x: px, y: py, z: pz } };\nreturn [ {payload:px}, {payload:py}, {payload:pz}, msgAll ];",
+        "outputs": 3,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 360,
+        "y": 220,
+        "wires": [
+            [
+                "fc7710d1a67aa3d7",
+                "722aade5d2f2f4b4"
+            ],
+            [
+                "2eea20dcf287a8b1",
+                "bf0636a3abf74b46"
+            ],
+            [
+                "bf5637baa9f78290",
+                "9f896981b97b6d2e"
+            ]
+        ]
+    },
+    {
+        "id": "fc7710d1a67aa3d7",
+        "type": "ui-chart",
+        "z": "5e92caaf27235ee2",
+        "g": "1038aba79d17f7d1",
+        "group": "51cc674be9e5cea1",
+        "name": "",
+        "label": "Sumbu X",
+        "order": 10,
+        "chartType": "line",
+        "category": "topic",
+        "categoryType": "msg",
+        "xAxisLabel": "Waktu",
+        "xAxisProperty": "",
+        "xAxisPropertyType": "timestamp",
+        "xAxisType": "time",
+        "xAxisFormat": "",
+        "xAxisFormatType": "auto",
+        "xmin": "",
+        "xmax": "",
+        "yAxisLabel": "Vibrasi",
+        "yAxisProperty": "payload",
+        "yAxisPropertyType": "msg",
+        "ymin": "-2",
+        "ymax": "2",
+        "bins": 10,
+        "action": "append",
+        "stackSeries": false,
+        "pointShape": "circle",
+        "pointRadius": 4,
+        "showLegend": false,
+        "removeOlder": 1,
+        "removeOlderUnit": "60",
+        "removeOlderPoints": "300",
+        "colors": [
+            "#0095ff",
+            "#ff0000",
+            "#ff7f0e",
+            "#2ca02c",
+            "#a347e1",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "textColor": [
+            "#666666"
+        ],
+        "textColorDefault": true,
+        "gridColor": [
+            "#e5e5e5"
+        ],
+        "gridColorDefault": true,
+        "width": 2,
+        "height": 7,
+        "className": "",
+        "interpolation": "linear",
+        "x": 620,
+        "y": 120,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "722aade5d2f2f4b4",
+        "type": "ui-gauge",
+        "z": "5e92caaf27235ee2",
+        "g": "1038aba79d17f7d1",
+        "name": "gauge",
+        "group": "51cc674be9e5cea1",
+        "order": 1,
+        "value": "payload",
+        "valueType": "msg",
+        "width": 2,
+        "height": 3,
+        "gtype": "gauge-half",
+        "gstyle": "needle",
+        "title": "Sumbu X",
+        "alwaysShowTitle": false,
+        "floatingTitlePosition": "top-left",
+        "units": "g",
+        "icon": "",
+        "prefix": "",
+        "suffix": "",
+        "segments": [
+            {
+                "from": "0",
+                "color": "#5cd65c",
+                "text": "",
+                "textType": "label"
+            },
+            {
+                "from": "1",
+                "color": "#ea5353",
+                "text": "",
+                "textType": "label"
+            }
+        ],
+        "min": 0,
+        "max": "2",
+        "sizeThickness": 16,
+        "sizeGap": 4,
+        "sizeKeyThickness": 8,
+        "styleRounded": true,
+        "styleGlow": false,
+        "className": "",
+        "x": 610,
+        "y": 180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2eea20dcf287a8b1",
+        "type": "ui-chart",
+        "z": "5e92caaf27235ee2",
+        "g": "1038aba79d17f7d1",
+        "group": "51cc674be9e5cea1",
+        "name": "",
+        "label": "Sumbu Y",
+        "order": 9,
+        "chartType": "line",
+        "category": "topic",
+        "categoryType": "msg",
+        "xAxisLabel": "Waktu",
+        "xAxisProperty": "",
+        "xAxisPropertyType": "timestamp",
+        "xAxisType": "time",
+        "xAxisFormat": "",
+        "xAxisFormatType": "auto",
+        "xmin": "",
+        "xmax": "",
+        "yAxisLabel": "Vibrasi",
+        "yAxisProperty": "payload",
+        "yAxisPropertyType": "msg",
+        "ymin": "-2",
+        "ymax": "2",
+        "bins": 10,
+        "action": "append",
+        "stackSeries": false,
+        "pointShape": "circle",
+        "pointRadius": 4,
+        "showLegend": false,
+        "removeOlder": 1,
+        "removeOlderUnit": "60",
+        "removeOlderPoints": "300",
+        "colors": [
+            "#0095ff",
+            "#ff0000",
+            "#ff7f0e",
+            "#2ca02c",
+            "#a347e1",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "textColor": [
+            "#666666"
+        ],
+        "textColorDefault": true,
+        "gridColor": [
+            "#e5e5e5"
+        ],
+        "gridColorDefault": true,
+        "width": 2,
+        "height": 7,
+        "className": "",
+        "interpolation": "linear",
+        "x": 620,
+        "y": 240,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "bf5637baa9f78290",
+        "type": "ui-chart",
+        "z": "5e92caaf27235ee2",
+        "g": "1038aba79d17f7d1",
+        "group": "51cc674be9e5cea1",
+        "name": "",
+        "label": "Sumbu Z",
+        "order": 8,
+        "chartType": "line",
+        "category": "topic",
+        "categoryType": "msg",
+        "xAxisLabel": "Waktu",
+        "xAxisProperty": "",
+        "xAxisPropertyType": "timestamp",
+        "xAxisType": "time",
+        "xAxisFormat": "",
+        "xAxisFormatType": "auto",
+        "xmin": "",
+        "xmax": "",
+        "yAxisLabel": "Vibrasi",
+        "yAxisProperty": "payload",
+        "yAxisPropertyType": "msg",
+        "ymin": "-2",
+        "ymax": "2",
+        "bins": 10,
+        "action": "append",
+        "stackSeries": false,
+        "pointShape": "circle",
+        "pointRadius": 4,
+        "showLegend": false,
+        "removeOlder": 1,
+        "removeOlderUnit": "60",
+        "removeOlderPoints": "300",
+        "colors": [
+            "#0095ff",
+            "#ff0000",
+            "#ff7f0e",
+            "#2ca02c",
+            "#a347e1",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "textColor": [
+            "#666666"
+        ],
+        "textColorDefault": true,
+        "gridColor": [
+            "#e5e5e5"
+        ],
+        "gridColorDefault": true,
+        "width": 2,
+        "height": 7,
+        "className": "",
+        "interpolation": "linear",
+        "x": 620,
+        "y": 360,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6a4ef45c29fd8491",
+        "type": "function",
+        "z": "5e92caaf27235ee2",
+        "g": "1038aba79d17f7d1",
+        "name": "Buffer Sumbu Z",
+        "func": "var bufferZ = context.get('bufferZ') || [];\n\n// Ambil array sumbu Z dari JSON ESP32\nvar incomingZ = msg.payload.z; \n\nif (Array.isArray(incomingZ)) {\n    bufferZ = bufferZ.concat(incomingZ);\n}\n\n// Jika sudah terkumpul 200 data\nif (bufferZ.length >= 200) {\n    msg.payload = bufferZ.slice(0, 200); // Kirim 200 data ke FFT\n    context.set('bufferZ', bufferZ.slice(200)); // Simpan sisa jika ada\n    return msg;\n} else {\n    context.set('bufferZ', bufferZ);\n    return null; // Tunggu data terkumpul\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 420,
+        "y": 560,
+        "wires": [
+            [
+                "410808be4b46bcd9"
+            ]
+        ]
+    },
+    {
+        "id": "410808be4b46bcd9",
+        "type": "function",
+        "z": "5e92caaf27235ee2",
+        "g": "1038aba79d17f7d1",
+        "name": "Analisis FFT",
+        "func": "// ================================\n// ANALISIS FFT RODA (FULL VERSION)\n// ================================\n\n// --- 1. PARAMETER ---\nvar inputData = msg.payload.slice(); // copy array\nvar Fs = 200; // Sampling frequency\n\n// --- 2. ZERO PADDING KE PANGKAT 2 ---\nfunction nextPowerOf2(n){\n    return Math.pow(2, Math.ceil(Math.log2(n)));\n}\n\nvar originalLength = inputData.length;\nvar N = nextPowerOf2(originalLength);\n\nwhile(inputData.length < N){\n    inputData.push(0);\n}\n\n// --- 3. MEAN REMOVAL ---\nlet mean = inputData.reduce((a,b)=>a+b,0)/N;\ninputData = inputData.map(v => v - mean);\n\n// --- 4. HAMMING WINDOW ---\ninputData = inputData.map((v,n)=>{\n    let w = 0.54 - 0.46 * Math.cos((2*Math.PI*n)/(N-1));\n    return v*w;\n});\n\n// --- 5. FFT COOLEY-TUKEY RECURSIVE ---\nfunction fft(signal){\n    var N = signal.length;\n    if(N <= 1) return [{re: signal[0], im: 0}];\n\n    var even = [];\n    var odd = [];\n\n    for(var i=0;i<N;i++){\n        (i%2===0 ? even : odd).push(signal[i]);\n    }\n\n    even = fft(even);\n    odd = fft(odd);\n\n    var T = new Array(N);\n\n    for(var k=0;k<N/2;k++){\n        var angle = -2*Math.PI*k/N;\n        var cos = Math.cos(angle);\n        var sin = Math.sin(angle);\n\n        var tre = cos*odd[k].re - sin*odd[k].im;\n        var tim = sin*odd[k].re + cos*odd[k].im;\n\n        T[k] = {\n            re: even[k].re + tre,\n            im: even[k].im + tim\n        };\n\n        T[k+N/2] = {\n            re: even[k].re - tre,\n            im: even[k].im - tim\n        };\n    }\n    return T;\n}\n\nvar fftResult = fft(inputData);\n\n// --- 6. MAGNITUDE & PEAK DETECTION ---\nvar spectrum = [];\nvar maxVal = 0;\nvar peakFreq = 0;\nvar noiseThreshold = 0.03;\nvar maxFreqTarget = 100;\n\nfor(let k=1; k<N/2; k++){\n    let magnitude = (Math.sqrt(\n        fftResult[k].re*fftResult[k].re +\n        fftResult[k].im*fftResult[k].im\n    ) / N) * 2;\n\n    let freq = k * Fs / N;\n\n    if(freq <= maxFreqTarget){\n        spectrum.push({freq: freq, val: magnitude});\n\n        if(magnitude > maxVal && magnitude > noiseThreshold){\n            maxVal = magnitude;\n            peakFreq = parseFloat(freq.toFixed(1));\n        }\n    }\n}\n\nif(maxVal < noiseThreshold){\n    peakFreq = 0;\n    maxVal = 0;\n}\n\n// --- 7. VISUALISASI SVG ---\nlet vW = 600; \nlet vH = 350; \nlet m = { top: 40, right: 30, bottom: 65, left: 75 }; \nlet graphW = vW - m.left - m.right;\nlet graphH = vH - m.top - m.bottom;\n\nlet displayMax = Math.max(maxVal, 0.1);\n\nlet gridY = \"\"; \nfor (let j = 0; j <= 4; j++) {\n    let p = j / 4;\n    let y = vH - m.bottom - (p * graphH);\n    gridY += `<line x1=\"${m.left}\" y1=\"${y}\" x2=\"${vW-m.right}\" y2=\"${y}\" stroke=\"#444\" stroke-dasharray=\"4,4\" />`;\n    gridY += `<text x=\"${m.left-10}\" y=\"${y+4}\" fill=\"#ccc\" font-size=\"12\" text-anchor=\"end\">${(displayMax*p).toFixed(2)}</text>`;\n}\n\nlet gridX = \"\";\nfor (let i = 0; i <= 10; i++) {\n    let fL = i * 10;\n    let x = m.left + (fL / maxFreqTarget) * graphW;\n    gridX += `<line x1=\"${x}\" y1=\"${m.top}\" x2=\"${x}\" y2=\"${vH-m.bottom}\" stroke=\"#444\" stroke-dasharray=\"2,2\" />`;\n    gridX += `<text x=\"${x}\" y=\"${vH-m.bottom+25}\" fill=\"#ccc\" font-size=\"12\" text-anchor=\"middle\">${fL}</text>`;\n}\n\nlet points = \"\";\nspectrum.forEach(item => {\n    let x = m.left + (item.freq / maxFreqTarget) * graphW;\n    let y = vH - m.bottom - ((item.val / displayMax) * graphH);\n    points += `${x.toFixed(1)},${y.toFixed(1)} `;\n});\n\nvar html = `\n<div style=\"background:#1e1e1e; padding:15px; border-radius:10px; font-family:sans-serif; border: 2px solid #333; color:white;\">\n    <div style=\"text-align:center; color:#ff4d4d; font-size:16px; margin-bottom:10px; font-weight:bold;\">\n        ANALISIS SPEKTRUM FREKUENSI RODA BENJOL (FFT)\n    </div>\n    <svg viewBox=\"0 0 ${vW} ${vH}\" style=\"width:100%; height:auto;\">\n        ${gridY} ${gridX}\n        <polyline points=\"${points}\" fill=\"none\" stroke=\"#ff4d4d\" stroke-width=\"2.5\" stroke-linejoin=\"round\" />\n        <text x=\"${m.left + graphW/2}\" y=\"${vH-5}\" fill=\"#ccc\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"bold\">\n            Frekuensi (Hz)\n        </text>\n    </svg>\n    <div style=\"text-align:center; margin-top:15px; padding:10px; background:#2a0000; border: 1px solid #ff4d4d; border-radius:5px;\">\n        <span style=\"color:#aaa; font-size:14px;\">Puncak Dominan:</span> \n        <span style=\"color:#ff4d4d; font-size:22px; font-weight:bold; margin-left:10px;\">\n            ${peakFreq} Hz\n        </span>\n    </div>\n</div>`;\n\n// --- 8. OUTPUT ---\nreturn [\n    { payload: html },\n    { payload: peakFreq },\n    { payload: { freq: peakFreq, accel: maxVal } }\n];",
+        "outputs": 3,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 630,
+        "y": 640,
+        "wires": [
+            [
+                "8133c2d42a2d9ef6"
+            ],
+            [],
+            [
+                "a6c3fdb0b819cd81",
+                "2cfd4a09be2fa883"
+            ]
+        ]
+    },
+    {
+        "id": "8133c2d42a2d9ef6",
+        "type": "ui-template",
+        "z": "5e92caaf27235ee2",
+        "g": "1038aba79d17f7d1",
+        "group": "2f6259eff5e18292",
+        "page": "",
+        "ui": "",
+        "name": "Visualisasi Data",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "head": "",
+        "format": "<div v-html=\"msg.payload\"></div>",
+        "storeOutMessages": true,
+        "passthru": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 820,
+        "y": 500,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a6c3fdb0b819cd81",
+        "type": "function",
+        "z": "5e92caaf27235ee2",
+        "g": "1038aba79d17f7d1",
+        "name": "Analisis Ride Index",
+        "func": "let f = msg.payload.freq; \nlet accel_g = msg.payload.accel; \nlet a = accel_g * 980.665; // Konversi ke cm/s^2\n\nlet Wz = 0;\nlet klasifikasi = \"\";\n\n// Faktor Bobot B(f) Vertikal\nlet k = 0.588;\nlet f2 = Math.pow(f, 2);\nlet f3 = Math.pow(f, 3);\nlet pembilang = 1.911 * f2 + Math.pow(0.25 * f2, 2);\nlet penyebut = Math.pow(1 - 0.277 * f2, 2) + Math.pow(1.563 * f - 0.0368 * f3, 2);\nlet Bf = k * Math.sqrt(pembilang / penyebut);\n\n// Rumus Sperling Index\nif (a > 0 && f > 0) {\n    Wz = Math.pow(Math.pow(a, 3) * Math.pow(Bf, 3), 0.1);\n}\n\n// Klasifikasi\nif (Wz <= 2.0) klasifikasi = \"Sangat Baik\";\nelse if (Wz <= 2.5) klasifikasi = \"Baik\";\nelse if (Wz <= 3.0) klasifikasi = \"Cukup\";\nelse if (Wz <= 3.5) klasifikasi = \"Kurang\";\nelse klasifikasi = \"Buruk/Bahaya\";\n\nmsg.payload = {\n    wz: Wz.toFixed(2),\n    status: klasifikasi\n};\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 850,
+        "y": 700,
+        "wires": [
+            [
+                "173d664fa1a5458a",
+                "405e036e4daf4c92"
+            ]
+        ]
+    },
+    {
+        "id": "173d664fa1a5458a",
+        "type": "ui-template",
+        "z": "5e92caaf27235ee2",
+        "g": "1038aba79d17f7d1",
+        "group": "eb228f3d357f71ab",
+        "page": "",
+        "ui": "",
+        "name": "Visualisasi Data",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "head": "",
+        "format": "<div style=\"padding: 15px; border-radius: 12px; font-family: sans-serif; text-align: center; color: white;\" :style=\"{\n        'background': msg.payload.wz <= 2.5 ? '#1b5e20' : (msg.payload.wz <= 3.5 ? '#f57f17' : '#b71c1c'),\n        'border': '2px solid rgba(255,255,255,0.2)'\n     }\">\n    <div style=\"font-size: 12px; opacity: 0.8;\">SPERLING RIDE INDEX</div>\n    <div style=\"font-size: 42px; font-weight: bold; margin: 5px 0;\">{{msg.payload.wz}}</div>\n    <div style=\"font-size: 18px; font-weight: 600; padding: 4px 10px; background: rgba(0,0,0,0.3); border-radius: 8px;\">\n        {{msg.payload.status}}\n    </div>\n</div>",
+        "storeOutMessages": true,
+        "passthru": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 1040,
+        "y": 660,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "982be931a4a0ea91",
+        "type": "ui-template",
+        "z": "5e92caaf27235ee2",
+        "g": "41fbb0eae22949ba",
+        "group": "feb3e76cb1234871",
+        "page": "",
+        "ui": "",
+        "name": "Tombol Unduh Data",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "head": "",
+        "format": "<script src=\"https://cdn.jsdelivr.net/npm/sweetalert2@11\"></script>\n\n<div style=\"text-align: center; padding: 20px; border: 1px solid #ddd; border-radius: 10px; background: #fdfdfd; font-family: 'Times New Roman', Times, serif;\">\n    <h3 style=\"margin-top:0; color: #333;\">Unduh Data</h3>\n    <p style=\"font-size: 13px; color: #666;\">Klik tombol di bawah untuk mengunduh data logging dari database.</p>\n    \n    <button type=\"button\" id=\"btn-download\" style=\"padding: 15px 30px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer; font-weight: bold; font-size: 16px; width: 100%;\">\n        📥 SIMPAN FILE .JSON\n    </button>\n</div>\n\n<script>\n    document.getElementById('btn-download').addEventListener('click', function() {\n        // 1. Tampilkan Notifikasi Loading/Persiapan\n        Swal.fire({\n            title: 'Menyiapkan Data...',\n            text: 'Server sedang mengambil data dari InfluxDB',\n            icon: 'info',\n            timer: 2000,\n            showConfirmButton: false,\n            didOpen: () => {\n                Swal.showLoading();\n            }\n        });\n\n        // 2. Arahkan browser untuk download file setelah jeda sedikit\n        setTimeout(function() {\n            window.location.href = \"/download/json\";\n            \n            // 3. Tampilkan Notifikasi Sukses\n            Swal.fire({\n                title: 'Berhasil!',\n                text: 'Data telah dikirim ke browser Anda.',\n                icon: 'success',\n                confirmButtonColor: '#007bff'\n            });\n        }, 1500);\n    });\n</script>",
+        "storeOutMessages": true,
+        "passthru": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 200,
+        "y": 1080,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0e4e3bbaeb66358c",
+        "type": "mqtt in",
+        "z": "5e92caaf27235ee2",
+        "g": "5faf3c50468d128b",
+        "name": "",
+        "topic": "node-1",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "4cfc3688e72f2f9f",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 2790,
+        "y": 620,
+        "wires": [
+            [
+                "6d28c0d9466d5898",
+                "efa4f572c3cf8e19",
+                "ca6c2bb05003148d"
+            ]
+        ]
+    },
+    {
+        "id": "efa4f572c3cf8e19",
+        "type": "function",
+        "z": "5e92caaf27235ee2",
+        "g": "5faf3c50468d128b",
+        "name": "Nilai Peak Getaran",
+        "func": "// Mengambil array dari payload\nvar dataX = msg.payload.x;\nvar dataY = msg.payload.y;\nvar dataZ = msg.payload.z;\n\nfunction getPeak(arr) {\n    if (!arr || !Array.isArray(arr) || arr.length === 0) return 0;\n    \n    var peak = arr[0];\n    for (var i = 1; i < arr.length; i++) {\n        // Bandingkan kekuatan getaran (magnitudo) tanpa menghilangkan tanda +/-\n        if (Math.abs(arr[i]) > Math.abs(peak)) {\n            peak = arr[i];\n        }\n    }\n    return parseFloat(peak.toFixed(3));\n}\n\n// Menghitung nilai puncak (tetap mempertahankan tanda +/-)\nvar px = getPeak(dataX);\nvar py = getPeak(dataY);\nvar pz = getPeak(dataZ);\n\n// Output\nreturn [\n    { payload: px, topic: \"Sumbu_X\" }, \n    { payload: py, topic: \"Sumbu_Y\" }, \n    { payload: pz, topic: \"Sumbu_Z\" }\n];",
+        "outputs": 3,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2990,
+        "y": 340,
+        "wires": [
+            [
+                "26bb021dc574fa5d",
+                "e6ee5eb51e906cfa"
+            ],
+            [
+                "76d56f9ebf9ca5bc",
+                "327d943b5382a17f"
+            ],
+            [
+                "8a906170351d9ee6",
+                "670c87dd143d2c64"
+            ]
+        ]
+    },
+    {
+        "id": "26bb021dc574fa5d",
+        "type": "ui-chart",
+        "z": "5e92caaf27235ee2",
+        "g": "5faf3c50468d128b",
+        "group": "1b4cfc7c3e257023",
+        "name": "",
+        "label": "Sumbu X",
+        "order": 4,
+        "chartType": "line",
+        "category": "topic",
+        "categoryType": "msg",
+        "xAxisLabel": "Waktu",
+        "xAxisProperty": "",
+        "xAxisPropertyType": "timestamp",
+        "xAxisType": "time",
+        "xAxisFormat": "",
+        "xAxisFormatType": "auto",
+        "xmin": "",
+        "xmax": "",
+        "yAxisLabel": "Vibrasi",
+        "yAxisProperty": "payload",
+        "yAxisPropertyType": "msg",
+        "ymin": "-2",
+        "ymax": "2",
+        "bins": 10,
+        "action": "append",
+        "stackSeries": false,
+        "pointShape": "circle",
+        "pointRadius": 4,
+        "showLegend": false,
+        "removeOlder": 1,
+        "removeOlderUnit": "60",
+        "removeOlderPoints": "300",
+        "colors": [
+            "#0095ff",
+            "#ff0000",
+            "#ff7f0e",
+            "#2ca02c",
+            "#a347e1",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "textColor": [
+            "#666666"
+        ],
+        "textColorDefault": true,
+        "gridColor": [
+            "#e5e5e5"
+        ],
+        "gridColorDefault": true,
+        "width": 2,
+        "height": 7,
+        "className": "",
+        "interpolation": "linear",
+        "x": 3220,
+        "y": 220,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "76d56f9ebf9ca5bc",
+        "type": "ui-chart",
+        "z": "5e92caaf27235ee2",
+        "g": "5faf3c50468d128b",
+        "group": "1b4cfc7c3e257023",
+        "name": "",
+        "label": "Sumbu Y",
+        "order": 5,
+        "chartType": "line",
+        "category": "topic",
+        "categoryType": "msg",
+        "xAxisLabel": "Waktu",
+        "xAxisProperty": "",
+        "xAxisPropertyType": "timestamp",
+        "xAxisType": "time",
+        "xAxisFormat": "",
+        "xAxisFormatType": "auto",
+        "xmin": "",
+        "xmax": "",
+        "yAxisLabel": "Vibrasi",
+        "yAxisProperty": "payload",
+        "yAxisPropertyType": "msg",
+        "ymin": "-2",
+        "ymax": "2",
+        "bins": 10,
+        "action": "append",
+        "stackSeries": false,
+        "pointShape": "circle",
+        "pointRadius": 4,
+        "showLegend": false,
+        "removeOlder": 1,
+        "removeOlderUnit": "60",
+        "removeOlderPoints": "300",
+        "colors": [
+            "#0095ff",
+            "#ff0000",
+            "#ff7f0e",
+            "#2ca02c",
+            "#a347e1",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "textColor": [
+            "#666666"
+        ],
+        "textColorDefault": true,
+        "gridColor": [
+            "#e5e5e5"
+        ],
+        "gridColorDefault": true,
+        "width": 2,
+        "height": 7,
+        "className": "",
+        "interpolation": "linear",
+        "x": 3220,
+        "y": 340,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "8a906170351d9ee6",
+        "type": "ui-chart",
+        "z": "5e92caaf27235ee2",
+        "g": "5faf3c50468d128b",
+        "group": "1b4cfc7c3e257023",
+        "name": "",
+        "label": "Sumbu Z",
+        "order": 6,
+        "chartType": "line",
+        "category": "topic",
+        "categoryType": "msg",
+        "xAxisLabel": "Waktu",
+        "xAxisProperty": "",
+        "xAxisPropertyType": "timestamp",
+        "xAxisType": "time",
+        "xAxisFormat": "",
+        "xAxisFormatType": "auto",
+        "xmin": "",
+        "xmax": "",
+        "yAxisLabel": "Vibrasi",
+        "yAxisProperty": "payload",
+        "yAxisPropertyType": "msg",
+        "ymin": "-2",
+        "ymax": "2",
+        "bins": 10,
+        "action": "append",
+        "stackSeries": false,
+        "pointShape": "circle",
+        "pointRadius": 4,
+        "showLegend": false,
+        "removeOlder": 1,
+        "removeOlderUnit": "60",
+        "removeOlderPoints": "300",
+        "colors": [
+            "#0095ff",
+            "#ff0000",
+            "#ff7f0e",
+            "#2ca02c",
+            "#a347e1",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "textColor": [
+            "#666666"
+        ],
+        "textColorDefault": true,
+        "gridColor": [
+            "#e5e5e5"
+        ],
+        "gridColorDefault": true,
+        "width": 2,
+        "height": 7,
+        "className": "",
+        "interpolation": "linear",
+        "x": 3220,
+        "y": 460,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6d28c0d9466d5898",
+        "type": "function",
+        "z": "5e92caaf27235ee2",
+        "g": "5faf3c50468d128b",
+        "name": "Buffer Sumbu Z",
+        "func": "var bufferZ = context.get('bufferZ') || [];\n\n// Ambil array sumbu Z dari JSON ESP32\nvar incomingZ = msg.payload.z; \n\nif (Array.isArray(incomingZ)) {\n    bufferZ = bufferZ.concat(incomingZ);\n}\n\n// Jika sudah terkumpul 200 data\nif (bufferZ.length >= 200) {\n    msg.payload = bufferZ.slice(0, 200); // Kirim 200 data ke FFT\n    context.set('bufferZ', bufferZ.slice(200)); // Simpan sisa jika ada\n    return msg;\n} else {\n    context.set('bufferZ', bufferZ);\n    return null; // Tunggu data terkumpul\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2980,
+        "y": 620,
+        "wires": [
+            [
+                "5c862fddbb3bcc86"
+            ]
+        ]
+    },
+    {
+        "id": "5c862fddbb3bcc86",
+        "type": "function",
+        "z": "5e92caaf27235ee2",
+        "g": "5faf3c50468d128b",
+        "name": "Analisis FFT",
+        "func": "// ================================\n// ANALISIS FFT RODA (FULL VERSION)\n// ================================\n\n// --- 1. PARAMETER ---\nvar inputData = msg.payload.slice(); // copy array\nvar Fs = 200; // Sampling frequency\n\n// --- 2. ZERO PADDING KE PANGKAT 2 ---\nfunction nextPowerOf2(n){\n    return Math.pow(2, Math.ceil(Math.log2(n)));\n}\n\nvar originalLength = inputData.length;\nvar N = nextPowerOf2(originalLength);\n\nwhile(inputData.length < N){\n    inputData.push(0);\n}\n\n// --- 3. MEAN REMOVAL ---\nlet mean = inputData.reduce((a,b)=>a+b,0)/N;\ninputData = inputData.map(v => v - mean);\n\n// --- 4. HAMMING WINDOW ---\ninputData = inputData.map((v,n)=>{\n    let w = 0.54 - 0.46 * Math.cos((2*Math.PI*n)/(N-1));\n    return v*w;\n});\n\n// --- 5. FFT COOLEY-TUKEY RECURSIVE ---\nfunction fft(signal){\n    var N = signal.length;\n    if(N <= 1) return [{re: signal[0], im: 0}];\n\n    var even = [];\n    var odd = [];\n\n    for(var i=0;i<N;i++){\n        (i%2===0 ? even : odd).push(signal[i]);\n    }\n\n    even = fft(even);\n    odd = fft(odd);\n\n    var T = new Array(N);\n\n    for(var k=0;k<N/2;k++){\n        var angle = -2*Math.PI*k/N;\n        var cos = Math.cos(angle);\n        var sin = Math.sin(angle);\n\n        var tre = cos*odd[k].re - sin*odd[k].im;\n        var tim = sin*odd[k].re + cos*odd[k].im;\n\n        T[k] = {\n            re: even[k].re + tre,\n            im: even[k].im + tim\n        };\n\n        T[k+N/2] = {\n            re: even[k].re - tre,\n            im: even[k].im - tim\n        };\n    }\n    return T;\n}\n\nvar fftResult = fft(inputData);\n\n// --- 6. MAGNITUDE & PEAK DETECTION ---\nvar spectrum = [];\nvar maxVal = 0;\nvar peakFreq = 0;\nvar noiseThreshold = 0.03;\nvar maxFreqTarget = 100;\n\nfor(let k=1; k<N/2; k++){\n    let magnitude = (Math.sqrt(\n        fftResult[k].re*fftResult[k].re +\n        fftResult[k].im*fftResult[k].im\n    ) / N) * 2;\n\n    let freq = k * Fs / N;\n\n    if(freq <= maxFreqTarget){\n        spectrum.push({freq: freq, val: magnitude});\n\n        if(magnitude > maxVal && magnitude > noiseThreshold){\n            maxVal = magnitude;\n            peakFreq = parseFloat(freq.toFixed(1));\n        }\n    }\n}\n\nif(maxVal < noiseThreshold){\n    peakFreq = 0;\n    maxVal = 0;\n}\n\n// --- 7. VISUALISASI SVG ---\nlet vW = 600; \nlet vH = 350; \nlet m = { top: 40, right: 30, bottom: 65, left: 75 }; \nlet graphW = vW - m.left - m.right;\nlet graphH = vH - m.top - m.bottom;\n\nlet displayMax = Math.max(maxVal, 0.1);\n\nlet gridY = \"\"; \nfor (let j = 0; j <= 4; j++) {\n    let p = j / 4;\n    let y = vH - m.bottom - (p * graphH);\n    gridY += `<line x1=\"${m.left}\" y1=\"${y}\" x2=\"${vW-m.right}\" y2=\"${y}\" stroke=\"#444\" stroke-dasharray=\"4,4\" />`;\n    gridY += `<text x=\"${m.left-10}\" y=\"${y+4}\" fill=\"#ccc\" font-size=\"12\" text-anchor=\"end\">${(displayMax*p).toFixed(2)}</text>`;\n}\n\nlet gridX = \"\";\nfor (let i = 0; i <= 10; i++) {\n    let fL = i * 10;\n    let x = m.left + (fL / maxFreqTarget) * graphW;\n    gridX += `<line x1=\"${x}\" y1=\"${m.top}\" x2=\"${x}\" y2=\"${vH-m.bottom}\" stroke=\"#444\" stroke-dasharray=\"2,2\" />`;\n    gridX += `<text x=\"${x}\" y=\"${vH-m.bottom+25}\" fill=\"#ccc\" font-size=\"12\" text-anchor=\"middle\">${fL}</text>`;\n}\n\nlet points = \"\";\nspectrum.forEach(item => {\n    let x = m.left + (item.freq / maxFreqTarget) * graphW;\n    let y = vH - m.bottom - ((item.val / displayMax) * graphH);\n    points += `${x.toFixed(1)},${y.toFixed(1)} `;\n});\n\nvar html = `\n<div style=\"background:#1e1e1e; padding:15px; border-radius:10px; font-family:sans-serif; border: 2px solid #333; color:white;\">\n    <div style=\"text-align:center; color:#ff4d4d; font-size:16px; margin-bottom:10px; font-weight:bold;\">\n        ANALISIS SPEKTRUM FREKUENSI RODA BENJOL (FFT)\n    </div>\n    <svg viewBox=\"0 0 ${vW} ${vH}\" style=\"width:100%; height:auto;\">\n        ${gridY} ${gridX}\n        <polyline points=\"${points}\" fill=\"none\" stroke=\"#ff4d4d\" stroke-width=\"2.5\" stroke-linejoin=\"round\" />\n        <text x=\"${m.left + graphW/2}\" y=\"${vH-5}\" fill=\"#ccc\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"bold\">\n            Frekuensi (Hz)\n        </text>\n    </svg>\n    <div style=\"text-align:center; margin-top:15px; padding:10px; background:#2a0000; border: 1px solid #ff4d4d; border-radius:5px;\">\n        <span style=\"color:#aaa; font-size:14px;\">Puncak Dominan:</span> \n        <span style=\"color:#ff4d4d; font-size:22px; font-weight:bold; margin-left:10px;\">\n            ${peakFreq} Hz\n        </span>\n    </div>\n</div>`;\n\n// --- 8. OUTPUT ---\nreturn [\n    { payload: html },\n    { payload: peakFreq },\n    { payload: { freq: peakFreq, accel: maxVal } }\n];",
+        "outputs": 3,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3210,
+        "y": 620,
+        "wires": [
+            [
+                "68546475ddd890c5"
+            ],
+            [],
+            [
+                "10df9c6ce9d8cd08",
+                "316caa26625f30e9"
+            ]
+        ]
+    },
+    {
+        "id": "68546475ddd890c5",
+        "type": "ui-template",
+        "z": "5e92caaf27235ee2",
+        "g": "5faf3c50468d128b",
+        "group": "57505b5eda884ad7",
+        "page": "",
+        "ui": "",
+        "name": "",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "head": "",
+        "format": "<div v-html=\"msg.payload\"></div>",
+        "storeOutMessages": true,
+        "passthru": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 3380,
+        "y": 620,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "10df9c6ce9d8cd08",
+        "type": "function",
+        "z": "5e92caaf27235ee2",
+        "g": "5faf3c50468d128b",
+        "name": "function 6",
+        "func": "let f = msg.payload.freq; \nlet accel_g = msg.payload.accel; \nlet a = accel_g * 980.665; // Konversi ke cm/s^2\n\nlet Wz = 0;\nlet klasifikasi = \"\";\n\n// Faktor Bobot B(f) Vertikal\nlet k = 0.588;\nlet f2 = Math.pow(f, 2);\nlet f3 = Math.pow(f, 3);\nlet pembilang = 1.911 * f2 + Math.pow(0.25 * f2, 2);\nlet penyebut = Math.pow(1 - 0.277 * f2, 2) + Math.pow(1.563 * f - 0.0368 * f3, 2);\nlet Bf = k * Math.sqrt(pembilang / penyebut);\n\n// Rumus Sperling Index\nif (a > 0 && f > 0) {\n    Wz = Math.pow(Math.pow(a, 3) * Math.pow(Bf, 3), 0.1);\n}\n\n// Klasifikasi\nif (Wz <= 2.0) klasifikasi = \"Sangat Baik\";\nelse if (Wz <= 2.5) klasifikasi = \"Baik\";\nelse if (Wz <= 3.0) klasifikasi = \"Cukup\";\nelse if (Wz <= 3.5) klasifikasi = \"Kurang\";\nelse klasifikasi = \"Buruk/Bahaya\";\n\nmsg.payload = {\n    wz: Wz.toFixed(2),\n    status: klasifikasi\n};\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3360,
+        "y": 720,
+        "wires": [
+            [
+                "7ccef704fa7976c4",
+                "d68a0a141c253b44"
+            ]
+        ]
+    },
+    {
+        "id": "7ccef704fa7976c4",
+        "type": "ui-template",
+        "z": "5e92caaf27235ee2",
+        "g": "5faf3c50468d128b",
+        "group": "343cd45bbc762040",
+        "page": "",
+        "ui": "",
+        "name": "",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "head": "",
+        "format": "<div style=\"padding: 15px; border-radius: 12px; font-family: sans-serif; text-align: center; color: white;\" :style=\"{\n        'background': msg.payload.wz <= 2.5 ? '#1b5e20' : (msg.payload.wz <= 3.5 ? '#f57f17' : '#b71c1c'),\n        'border': '2px solid rgba(255,255,255,0.2)'\n     }\">\n    <div style=\"font-size: 12px; opacity: 0.8;\">SPERLING RIDE INDEX</div>\n    <div style=\"font-size: 42px; font-weight: bold; margin: 5px 0;\">{{msg.payload.wz}}</div>\n    <div style=\"font-size: 18px; font-weight: 600; padding: 4px 10px; background: rgba(0,0,0,0.3); border-radius: 8px;\">\n        {{msg.payload.status}}\n    </div>\n</div>",
+        "storeOutMessages": true,
+        "passthru": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 3540,
+        "y": 720,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3c7811536b7abf37",
+        "type": "mqtt in",
+        "z": "5e92caaf27235ee2",
+        "g": "83df340fa44f7595",
+        "name": "",
+        "topic": "node-1",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "4cfc3688e72f2f9f",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 4090,
+        "y": 660,
+        "wires": [
+            [
+                "4c14171619f28d44",
+                "6607b241cf94b37d",
+                "24eadd70b409825c"
+            ]
+        ]
+    },
+    {
+        "id": "6607b241cf94b37d",
+        "type": "function",
+        "z": "5e92caaf27235ee2",
+        "g": "83df340fa44f7595",
+        "name": "Nilai Peak Getaran",
+        "func": "// Mengambil array dari payload\nvar dataX = msg.payload.x;\nvar dataY = msg.payload.y;\nvar dataZ = msg.payload.z;\n\nfunction getPeak(arr) {\n    if (!arr || !Array.isArray(arr) || arr.length === 0) return 0;\n    \n    var peak = arr[0];\n    for (var i = 1; i < arr.length; i++) {\n        // Bandingkan kekuatan getaran (magnitudo) tanpa menghilangkan tanda +/-\n        if (Math.abs(arr[i]) > Math.abs(peak)) {\n            peak = arr[i];\n        }\n    }\n    return parseFloat(peak.toFixed(3));\n}\n\n// Menghitung nilai puncak (tetap mempertahankan tanda +/-)\nvar px = getPeak(dataX);\nvar py = getPeak(dataY);\nvar pz = getPeak(dataZ);\n\n// Output\nreturn [\n    { payload: px, topic: \"Sumbu_X\" }, \n    { payload: py, topic: \"Sumbu_Y\" }, \n    { payload: pz, topic: \"Sumbu_Z\" }\n];",
+        "outputs": 3,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 4290,
+        "y": 380,
+        "wires": [
+            [
+                "51c2c9734aad53cd",
+                "2ed831c69b40135b"
+            ],
+            [
+                "3113399706b2a9d4",
+                "9fa906952b2c5309"
+            ],
+            [
+                "7404a6cd445e0e17",
+                "9f69b3b04ab09397"
+            ]
+        ]
+    },
+    {
+        "id": "51c2c9734aad53cd",
+        "type": "ui-chart",
+        "z": "5e92caaf27235ee2",
+        "g": "83df340fa44f7595",
+        "group": "39dc0ce35aec4ffc",
+        "name": "",
+        "label": "Sumbu X",
+        "order": 4,
+        "chartType": "line",
+        "category": "topic",
+        "categoryType": "msg",
+        "xAxisLabel": "Waktu",
+        "xAxisProperty": "",
+        "xAxisPropertyType": "timestamp",
+        "xAxisType": "time",
+        "xAxisFormat": "",
+        "xAxisFormatType": "auto",
+        "xmin": "",
+        "xmax": "",
+        "yAxisLabel": "Vibrasi",
+        "yAxisProperty": "payload",
+        "yAxisPropertyType": "msg",
+        "ymin": "-2",
+        "ymax": "2",
+        "bins": 10,
+        "action": "append",
+        "stackSeries": false,
+        "pointShape": "circle",
+        "pointRadius": 4,
+        "showLegend": false,
+        "removeOlder": 1,
+        "removeOlderUnit": "60",
+        "removeOlderPoints": "300",
+        "colors": [
+            "#0095ff",
+            "#ff0000",
+            "#ff7f0e",
+            "#2ca02c",
+            "#a347e1",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "textColor": [
+            "#666666"
+        ],
+        "textColorDefault": true,
+        "gridColor": [
+            "#e5e5e5"
+        ],
+        "gridColorDefault": true,
+        "width": 2,
+        "height": 7,
+        "className": "",
+        "interpolation": "linear",
+        "x": 4520,
+        "y": 260,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3113399706b2a9d4",
+        "type": "ui-chart",
+        "z": "5e92caaf27235ee2",
+        "g": "83df340fa44f7595",
+        "group": "39dc0ce35aec4ffc",
+        "name": "",
+        "label": "Sumbu Y",
+        "order": 5,
+        "chartType": "line",
+        "category": "topic",
+        "categoryType": "msg",
+        "xAxisLabel": "Waktu",
+        "xAxisProperty": "",
+        "xAxisPropertyType": "timestamp",
+        "xAxisType": "time",
+        "xAxisFormat": "",
+        "xAxisFormatType": "auto",
+        "xmin": "",
+        "xmax": "",
+        "yAxisLabel": "Vibrasi",
+        "yAxisProperty": "payload",
+        "yAxisPropertyType": "msg",
+        "ymin": "-2",
+        "ymax": "2",
+        "bins": 10,
+        "action": "append",
+        "stackSeries": false,
+        "pointShape": "circle",
+        "pointRadius": 4,
+        "showLegend": false,
+        "removeOlder": 1,
+        "removeOlderUnit": "60",
+        "removeOlderPoints": "300",
+        "colors": [
+            "#0095ff",
+            "#ff0000",
+            "#ff7f0e",
+            "#2ca02c",
+            "#a347e1",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "textColor": [
+            "#666666"
+        ],
+        "textColorDefault": true,
+        "gridColor": [
+            "#e5e5e5"
+        ],
+        "gridColorDefault": true,
+        "width": 2,
+        "height": 7,
+        "className": "",
+        "interpolation": "linear",
+        "x": 4520,
+        "y": 380,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7404a6cd445e0e17",
+        "type": "ui-chart",
+        "z": "5e92caaf27235ee2",
+        "g": "83df340fa44f7595",
+        "group": "39dc0ce35aec4ffc",
+        "name": "",
+        "label": "Sumbu Z",
+        "order": 6,
+        "chartType": "line",
+        "category": "topic",
+        "categoryType": "msg",
+        "xAxisLabel": "Waktu",
+        "xAxisProperty": "",
+        "xAxisPropertyType": "timestamp",
+        "xAxisType": "time",
+        "xAxisFormat": "",
+        "xAxisFormatType": "auto",
+        "xmin": "",
+        "xmax": "",
+        "yAxisLabel": "Vibrasi",
+        "yAxisProperty": "payload",
+        "yAxisPropertyType": "msg",
+        "ymin": "-2",
+        "ymax": "2",
+        "bins": 10,
+        "action": "append",
+        "stackSeries": false,
+        "pointShape": "circle",
+        "pointRadius": 4,
+        "showLegend": false,
+        "removeOlder": 1,
+        "removeOlderUnit": "60",
+        "removeOlderPoints": "300",
+        "colors": [
+            "#0095ff",
+            "#ff0000",
+            "#ff7f0e",
+            "#2ca02c",
+            "#a347e1",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "textColor": [
+            "#666666"
+        ],
+        "textColorDefault": true,
+        "gridColor": [
+            "#e5e5e5"
+        ],
+        "gridColorDefault": true,
+        "width": 2,
+        "height": 7,
+        "className": "",
+        "interpolation": "linear",
+        "x": 4520,
+        "y": 500,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "4c14171619f28d44",
+        "type": "function",
+        "z": "5e92caaf27235ee2",
+        "g": "83df340fa44f7595",
+        "name": "Buffer Sumbu Z",
+        "func": "var bufferZ = context.get('bufferZ') || [];\n\n// Ambil array sumbu Z dari JSON ESP32\nvar incomingZ = msg.payload.z; \n\nif (Array.isArray(incomingZ)) {\n    bufferZ = bufferZ.concat(incomingZ);\n}\n\n// Jika sudah terkumpul 200 data\nif (bufferZ.length >= 200) {\n    msg.payload = bufferZ.slice(0, 200); // Kirim 200 data ke FFT\n    context.set('bufferZ', bufferZ.slice(200)); // Simpan sisa jika ada\n    return msg;\n} else {\n    context.set('bufferZ', bufferZ);\n    return null; // Tunggu data terkumpul\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 4280,
+        "y": 660,
+        "wires": [
+            [
+                "5f8f44b36a09b6b0"
+            ]
+        ]
+    },
+    {
+        "id": "5f8f44b36a09b6b0",
+        "type": "function",
+        "z": "5e92caaf27235ee2",
+        "g": "83df340fa44f7595",
+        "name": "Analisis FFT",
+        "func": "// ================================\n// ANALISIS FFT RODA (FULL VERSION)\n// ================================\n\n// --- 1. PARAMETER ---\nvar inputData = msg.payload.slice(); // copy array\nvar Fs = 200; // Sampling frequency\n\n// --- 2. ZERO PADDING KE PANGKAT 2 ---\nfunction nextPowerOf2(n){\n    return Math.pow(2, Math.ceil(Math.log2(n)));\n}\n\nvar originalLength = inputData.length;\nvar N = nextPowerOf2(originalLength);\n\nwhile(inputData.length < N){\n    inputData.push(0);\n}\n\n// --- 3. MEAN REMOVAL ---\nlet mean = inputData.reduce((a,b)=>a+b,0)/N;\ninputData = inputData.map(v => v - mean);\n\n// --- 4. HAMMING WINDOW ---\ninputData = inputData.map((v,n)=>{\n    let w = 0.54 - 0.46 * Math.cos((2*Math.PI*n)/(N-1));\n    return v*w;\n});\n\n// --- 5. FFT COOLEY-TUKEY RECURSIVE ---\nfunction fft(signal){\n    var N = signal.length;\n    if(N <= 1) return [{re: signal[0], im: 0}];\n\n    var even = [];\n    var odd = [];\n\n    for(var i=0;i<N;i++){\n        (i%2===0 ? even : odd).push(signal[i]);\n    }\n\n    even = fft(even);\n    odd = fft(odd);\n\n    var T = new Array(N);\n\n    for(var k=0;k<N/2;k++){\n        var angle = -2*Math.PI*k/N;\n        var cos = Math.cos(angle);\n        var sin = Math.sin(angle);\n\n        var tre = cos*odd[k].re - sin*odd[k].im;\n        var tim = sin*odd[k].re + cos*odd[k].im;\n\n        T[k] = {\n            re: even[k].re + tre,\n            im: even[k].im + tim\n        };\n\n        T[k+N/2] = {\n            re: even[k].re - tre,\n            im: even[k].im - tim\n        };\n    }\n    return T;\n}\n\nvar fftResult = fft(inputData);\n\n// --- 6. MAGNITUDE & PEAK DETECTION ---\nvar spectrum = [];\nvar maxVal = 0;\nvar peakFreq = 0;\nvar noiseThreshold = 0.03;\nvar maxFreqTarget = 100;\n\nfor(let k=1; k<N/2; k++){\n    let magnitude = (Math.sqrt(\n        fftResult[k].re*fftResult[k].re +\n        fftResult[k].im*fftResult[k].im\n    ) / N) * 2;\n\n    let freq = k * Fs / N;\n\n    if(freq <= maxFreqTarget){\n        spectrum.push({freq: freq, val: magnitude});\n\n        if(magnitude > maxVal && magnitude > noiseThreshold){\n            maxVal = magnitude;\n            peakFreq = parseFloat(freq.toFixed(1));\n        }\n    }\n}\n\nif(maxVal < noiseThreshold){\n    peakFreq = 0;\n    maxVal = 0;\n}\n\n// --- 7. VISUALISASI SVG ---\nlet vW = 600; \nlet vH = 350; \nlet m = { top: 40, right: 30, bottom: 65, left: 75 }; \nlet graphW = vW - m.left - m.right;\nlet graphH = vH - m.top - m.bottom;\n\nlet displayMax = Math.max(maxVal, 0.1);\n\nlet gridY = \"\"; \nfor (let j = 0; j <= 4; j++) {\n    let p = j / 4;\n    let y = vH - m.bottom - (p * graphH);\n    gridY += `<line x1=\"${m.left}\" y1=\"${y}\" x2=\"${vW-m.right}\" y2=\"${y}\" stroke=\"#444\" stroke-dasharray=\"4,4\" />`;\n    gridY += `<text x=\"${m.left-10}\" y=\"${y+4}\" fill=\"#ccc\" font-size=\"12\" text-anchor=\"end\">${(displayMax*p).toFixed(2)}</text>`;\n}\n\nlet gridX = \"\";\nfor (let i = 0; i <= 10; i++) {\n    let fL = i * 10;\n    let x = m.left + (fL / maxFreqTarget) * graphW;\n    gridX += `<line x1=\"${x}\" y1=\"${m.top}\" x2=\"${x}\" y2=\"${vH-m.bottom}\" stroke=\"#444\" stroke-dasharray=\"2,2\" />`;\n    gridX += `<text x=\"${x}\" y=\"${vH-m.bottom+25}\" fill=\"#ccc\" font-size=\"12\" text-anchor=\"middle\">${fL}</text>`;\n}\n\nlet points = \"\";\nspectrum.forEach(item => {\n    let x = m.left + (item.freq / maxFreqTarget) * graphW;\n    let y = vH - m.bottom - ((item.val / displayMax) * graphH);\n    points += `${x.toFixed(1)},${y.toFixed(1)} `;\n});\n\nvar html = `\n<div style=\"background:#1e1e1e; padding:15px; border-radius:10px; font-family:sans-serif; border: 2px solid #333; color:white;\">\n    <div style=\"text-align:center; color:#ff4d4d; font-size:16px; margin-bottom:10px; font-weight:bold;\">\n        ANALISIS SPEKTRUM FREKUENSI RODA BENJOL (FFT)\n    </div>\n    <svg viewBox=\"0 0 ${vW} ${vH}\" style=\"width:100%; height:auto;\">\n        ${gridY} ${gridX}\n        <polyline points=\"${points}\" fill=\"none\" stroke=\"#ff4d4d\" stroke-width=\"2.5\" stroke-linejoin=\"round\" />\n        <text x=\"${m.left + graphW/2}\" y=\"${vH-5}\" fill=\"#ccc\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"bold\">\n            Frekuensi (Hz)\n        </text>\n    </svg>\n    <div style=\"text-align:center; margin-top:15px; padding:10px; background:#2a0000; border: 1px solid #ff4d4d; border-radius:5px;\">\n        <span style=\"color:#aaa; font-size:14px;\">Puncak Dominan:</span> \n        <span style=\"color:#ff4d4d; font-size:22px; font-weight:bold; margin-left:10px;\">\n            ${peakFreq} Hz\n        </span>\n    </div>\n</div>`;\n\n// --- 8. OUTPUT ---\nreturn [\n    { payload: html },\n    { payload: peakFreq },\n    { payload: { freq: peakFreq, accel: maxVal } }\n];",
+        "outputs": 3,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 4510,
+        "y": 660,
+        "wires": [
+            [
+                "66d90aa02ffca52a"
+            ],
+            [],
+            [
+                "2a4ecf07ed267ea4",
+                "02f88cc427bdf265"
+            ]
+        ]
+    },
+    {
+        "id": "66d90aa02ffca52a",
+        "type": "ui-template",
+        "z": "5e92caaf27235ee2",
+        "g": "83df340fa44f7595",
+        "group": "ad5b10d981bd650e",
+        "page": "",
+        "ui": "",
+        "name": "",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "head": "",
+        "format": "<div v-html=\"msg.payload\"></div>",
+        "storeOutMessages": true,
+        "passthru": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 4680,
+        "y": 660,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2a4ecf07ed267ea4",
+        "type": "function",
+        "z": "5e92caaf27235ee2",
+        "g": "83df340fa44f7595",
+        "name": "function 7",
+        "func": "let f = msg.payload.freq; \nlet accel_g = msg.payload.accel; \nlet a = accel_g * 980.665; // Konversi ke cm/s^2\n\nlet Wz = 0;\nlet klasifikasi = \"\";\n\n// Faktor Bobot B(f) Vertikal\nlet k = 0.588;\nlet f2 = Math.pow(f, 2);\nlet f3 = Math.pow(f, 3);\nlet pembilang = 1.911 * f2 + Math.pow(0.25 * f2, 2);\nlet penyebut = Math.pow(1 - 0.277 * f2, 2) + Math.pow(1.563 * f - 0.0368 * f3, 2);\nlet Bf = k * Math.sqrt(pembilang / penyebut);\n\n// Rumus Sperling Index\nif (a > 0 && f > 0) {\n    Wz = Math.pow(Math.pow(a, 3) * Math.pow(Bf, 3), 0.1);\n}\n\n// Klasifikasi\nif (Wz <= 2.0) klasifikasi = \"Sangat Baik\";\nelse if (Wz <= 2.5) klasifikasi = \"Baik\";\nelse if (Wz <= 3.0) klasifikasi = \"Cukup\";\nelse if (Wz <= 3.5) klasifikasi = \"Kurang\";\nelse klasifikasi = \"Buruk/Bahaya\";\n\nmsg.payload = {\n    wz: Wz.toFixed(2),\n    status: klasifikasi\n};\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 4660,
+        "y": 760,
+        "wires": [
+            [
+                "89cd057505630e0e",
+                "e30bd7e7a26090d5"
+            ]
+        ]
+    },
+    {
+        "id": "89cd057505630e0e",
+        "type": "ui-template",
+        "z": "5e92caaf27235ee2",
+        "g": "83df340fa44f7595",
+        "group": "87e9a16cbc696264",
+        "page": "",
+        "ui": "",
+        "name": "",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "head": "",
+        "format": "<div style=\"padding: 15px; border-radius: 12px; font-family: sans-serif; text-align: center; color: white;\" :style=\"{\n        'background': msg.payload.wz <= 2.5 ? '#1b5e20' : (msg.payload.wz <= 3.5 ? '#f57f17' : '#b71c1c'),\n        'border': '2px solid rgba(255,255,255,0.2)'\n     }\">\n    <div style=\"font-size: 12px; opacity: 0.8;\">SPERLING RIDE INDEX</div>\n    <div style=\"font-size: 42px; font-weight: bold; margin: 5px 0;\">{{msg.payload.wz}}</div>\n    <div style=\"font-size: 18px; font-weight: 600; padding: 4px 10px; background: rgba(0,0,0,0.3); border-radius: 8px;\">\n        {{msg.payload.status}}\n    </div>\n</div>",
+        "storeOutMessages": true,
+        "passthru": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 4840,
+        "y": 760,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "bf0636a3abf74b46",
+        "type": "ui-gauge",
+        "z": "5e92caaf27235ee2",
+        "g": "1038aba79d17f7d1",
+        "name": "gauge",
+        "group": "51cc674be9e5cea1",
+        "order": 11,
+        "value": "payload",
+        "valueType": "msg",
+        "width": 2,
+        "height": 3,
+        "gtype": "gauge-half",
+        "gstyle": "needle",
+        "title": "Sumbu Y",
+        "alwaysShowTitle": false,
+        "floatingTitlePosition": "top-left",
+        "units": "g",
+        "icon": "",
+        "prefix": "",
+        "suffix": "",
+        "segments": [
+            {
+                "from": "0",
+                "color": "#5cd65c",
+                "text": "",
+                "textType": "label"
+            },
+            {
+                "from": "1",
+                "color": "#ea5353",
+                "text": "",
+                "textType": "label"
+            }
+        ],
+        "min": 0,
+        "max": "2",
+        "sizeThickness": 16,
+        "sizeGap": 4,
+        "sizeKeyThickness": 8,
+        "styleRounded": true,
+        "styleGlow": false,
+        "className": "",
+        "x": 610,
+        "y": 300,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9f896981b97b6d2e",
+        "type": "ui-gauge",
+        "z": "5e92caaf27235ee2",
+        "g": "1038aba79d17f7d1",
+        "name": "gauge",
+        "group": "51cc674be9e5cea1",
+        "order": 12,
+        "value": "payload",
+        "valueType": "msg",
+        "width": 2,
+        "height": 3,
+        "gtype": "gauge-half",
+        "gstyle": "needle",
+        "title": "Sumbu Z",
+        "alwaysShowTitle": false,
+        "floatingTitlePosition": "top-left",
+        "units": "g",
+        "icon": "",
+        "prefix": "",
+        "suffix": "",
+        "segments": [
+            {
+                "from": "0",
+                "color": "#5cd65c",
+                "text": "",
+                "textType": "label"
+            },
+            {
+                "from": "1",
+                "color": "#ea5353",
+                "text": "",
+                "textType": "label"
+            }
+        ],
+        "min": 0,
+        "max": "2",
+        "sizeThickness": 16,
+        "sizeGap": 4,
+        "sizeKeyThickness": 8,
+        "styleRounded": true,
+        "styleGlow": false,
+        "className": "",
+        "x": 610,
+        "y": 420,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e6ee5eb51e906cfa",
+        "type": "ui-gauge",
+        "z": "5e92caaf27235ee2",
+        "g": "5faf3c50468d128b",
+        "name": "gauge",
+        "group": "1b4cfc7c3e257023",
+        "order": 1,
+        "value": "payload",
+        "valueType": "msg",
+        "width": 2,
+        "height": 3,
+        "gtype": "gauge-half",
+        "gstyle": "needle",
+        "title": "Sumbu X",
+        "alwaysShowTitle": false,
+        "floatingTitlePosition": "top-left",
+        "units": "g",
+        "icon": "",
+        "prefix": "",
+        "suffix": "",
+        "segments": [
+            {
+                "from": "0",
+                "color": "#5cd65c",
+                "text": "",
+                "textType": "label"
+            },
+            {
+                "from": "1",
+                "color": "#ea5353",
+                "text": "",
+                "textType": "label"
+            }
+        ],
+        "min": 0,
+        "max": "2",
+        "sizeThickness": 16,
+        "sizeGap": 4,
+        "sizeKeyThickness": 8,
+        "styleRounded": true,
+        "styleGlow": false,
+        "className": "",
+        "x": 3210,
+        "y": 280,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "327d943b5382a17f",
+        "type": "ui-gauge",
+        "z": "5e92caaf27235ee2",
+        "g": "5faf3c50468d128b",
+        "name": "gauge",
+        "group": "1b4cfc7c3e257023",
+        "order": 3,
+        "value": "payload",
+        "valueType": "msg",
+        "width": 2,
+        "height": 3,
+        "gtype": "gauge-half",
+        "gstyle": "needle",
+        "title": "Sumbu Y",
+        "alwaysShowTitle": false,
+        "floatingTitlePosition": "top-left",
+        "units": "g",
+        "icon": "",
+        "prefix": "",
+        "suffix": "",
+        "segments": [
+            {
+                "from": "0",
+                "color": "#5cd65c",
+                "text": "",
+                "textType": "label"
+            },
+            {
+                "from": "1",
+                "color": "#ea5353",
+                "text": "",
+                "textType": "label"
+            }
+        ],
+        "min": 0,
+        "max": "2",
+        "sizeThickness": 16,
+        "sizeGap": 4,
+        "sizeKeyThickness": 8,
+        "styleRounded": true,
+        "styleGlow": false,
+        "className": "",
+        "x": 3210,
+        "y": 400,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "670c87dd143d2c64",
+        "type": "ui-gauge",
+        "z": "5e92caaf27235ee2",
+        "g": "5faf3c50468d128b",
+        "name": "gauge",
+        "group": "1b4cfc7c3e257023",
+        "order": 2,
+        "value": "payload",
+        "valueType": "msg",
+        "width": 2,
+        "height": 3,
+        "gtype": "gauge-half",
+        "gstyle": "needle",
+        "title": "Sumbu Z",
+        "alwaysShowTitle": false,
+        "floatingTitlePosition": "top-left",
+        "units": "g",
+        "icon": "",
+        "prefix": "",
+        "suffix": "",
+        "segments": [
+            {
+                "from": "0",
+                "color": "#5cd65c",
+                "text": "",
+                "textType": "label"
+            },
+            {
+                "from": "1",
+                "color": "#ea5353",
+                "text": "",
+                "textType": "label"
+            }
+        ],
+        "min": 0,
+        "max": "2",
+        "sizeThickness": 16,
+        "sizeGap": 4,
+        "sizeKeyThickness": 8,
+        "styleRounded": true,
+        "styleGlow": false,
+        "className": "",
+        "x": 3210,
+        "y": 500,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2ed831c69b40135b",
+        "type": "ui-gauge",
+        "z": "5e92caaf27235ee2",
+        "g": "83df340fa44f7595",
+        "name": "gauge",
+        "group": "39dc0ce35aec4ffc",
+        "order": 1,
+        "value": "payload",
+        "valueType": "msg",
+        "width": 2,
+        "height": 3,
+        "gtype": "gauge-half",
+        "gstyle": "needle",
+        "title": "Sumbu X",
+        "alwaysShowTitle": false,
+        "floatingTitlePosition": "top-left",
+        "units": "g",
+        "icon": "",
+        "prefix": "",
+        "suffix": "",
+        "segments": [
+            {
+                "from": "0",
+                "color": "#5cd65c",
+                "text": "",
+                "textType": "label"
+            },
+            {
+                "from": "1",
+                "color": "#ea5353",
+                "text": "",
+                "textType": "label"
+            }
+        ],
+        "min": 0,
+        "max": "2",
+        "sizeThickness": 16,
+        "sizeGap": 4,
+        "sizeKeyThickness": 8,
+        "styleRounded": true,
+        "styleGlow": false,
+        "className": "",
+        "x": 4510,
+        "y": 320,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9fa906952b2c5309",
+        "type": "ui-gauge",
+        "z": "5e92caaf27235ee2",
+        "g": "83df340fa44f7595",
+        "name": "gauge",
+        "group": "39dc0ce35aec4ffc",
+        "order": 3,
+        "value": "payload",
+        "valueType": "msg",
+        "width": 2,
+        "height": 3,
+        "gtype": "gauge-half",
+        "gstyle": "needle",
+        "title": "Sumbu Y",
+        "alwaysShowTitle": false,
+        "floatingTitlePosition": "top-left",
+        "units": "g",
+        "icon": "",
+        "prefix": "",
+        "suffix": "",
+        "segments": [
+            {
+                "from": "0",
+                "color": "#5cd65c",
+                "text": "",
+                "textType": "label"
+            },
+            {
+                "from": "1",
+                "color": "#ea5353",
+                "text": "",
+                "textType": "label"
+            }
+        ],
+        "min": 0,
+        "max": "2",
+        "sizeThickness": 16,
+        "sizeGap": 4,
+        "sizeKeyThickness": 8,
+        "styleRounded": true,
+        "styleGlow": false,
+        "className": "",
+        "x": 4510,
+        "y": 440,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9f69b3b04ab09397",
+        "type": "ui-gauge",
+        "z": "5e92caaf27235ee2",
+        "g": "83df340fa44f7595",
+        "name": "gauge",
+        "group": "39dc0ce35aec4ffc",
+        "order": 2,
+        "value": "payload",
+        "valueType": "msg",
+        "width": 2,
+        "height": 3,
+        "gtype": "gauge-half",
+        "gstyle": "needle",
+        "title": "Sumbu Z",
+        "alwaysShowTitle": false,
+        "floatingTitlePosition": "top-left",
+        "units": "g",
+        "icon": "",
+        "prefix": "",
+        "suffix": "",
+        "segments": [
+            {
+                "from": "0",
+                "color": "#5cd65c",
+                "text": "",
+                "textType": "label"
+            },
+            {
+                "from": "1",
+                "color": "#ea5353",
+                "text": "",
+                "textType": "label"
+            }
+        ],
+        "min": 0,
+        "max": "2",
+        "sizeThickness": 16,
+        "sizeGap": 4,
+        "sizeKeyThickness": 8,
+        "styleRounded": true,
+        "styleGlow": false,
+        "className": "",
+        "x": 4510,
+        "y": 540,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "fac5f7cba35b8177",
+        "type": "function",
+        "z": "5e92caaf27235ee2",
+        "g": "1038aba79d17f7d1",
+        "name": "Kirim Database",
+        "func": "var dataX = msg.payload.x;\nvar dataY = msg.payload.y;\nvar dataZ = msg.payload.z;\n\nfunction getPeak(arr) {\n    if (!arr || !Array.isArray(arr) || arr.length === 0) return 0;\n    var peak = arr[0];\n    for (var i = 1; i < arr.length; i++) {\n        if (Math.abs(arr[i]) > Math.abs(peak)) { peak = arr[i]; }\n    }\n    return parseFloat(peak.toFixed(3));\n}\n\nvar px = getPeak(dataX);\nvar py = getPeak(dataY);\nvar pz = getPeak(dataZ);\n\n// --- PERUBAHAN STRUKTUR DI SINI ---\n\n// 1. Field (Nilai Utama)\nmsg.payload = {\n    sumbu_x: px,\n    sumbu_y: py,\n    sumbu_z: pz\n};\n\n// 2. Measurement diganti menjadi Nama Sensor\nmsg.measurement = \"sensor_vibrasi_1\"; \n\n// 3. Tags untuk informasi tambahan\nmsg.tags = {\n    device: \"Kereta_Inspeksi_PNM\",\n    domain: \"time_domain\", // Menandakan ini data domain waktu\n    posisi: \"Bogie_Kanan_Depan\"\n};\n\nnode.status({fill:\"green\", shape:\"dot\", text:\"Kirim data Sensor_Vibrasi_1\"});\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 380,
+        "y": 740,
+        "wires": [
+            [
+                "3e82363893560390"
+            ]
+        ]
+    },
+    {
+        "id": "3e82363893560390",
+        "type": "influxdb out",
+        "z": "5e92caaf27235ee2",
+        "g": "1038aba79d17f7d1",
+        "influxdb": "68d6e85445db4f0a",
+        "name": "Database_Getaran",
+        "measurement": "sensor_vibrasi_1",
+        "precision": "",
+        "retentionPolicy": "",
+        "database": "database",
+        "precisionV18FluxV20": "ms",
+        "retentionPolicyV18Flux": "",
+        "org": "Perkeretaapian",
+        "bucket": "getaran",
+        "x": 430,
+        "y": 840,
+        "wires": []
+    },
+    {
+        "id": "2cfd4a09be2fa883",
+        "type": "function",
+        "z": "5e92caaf27235ee2",
+        "g": "1038aba79d17f7d1",
+        "name": "Database frekuensi",
+        "func": "// Data sudah matang dari output 3 Analisis FFT: { freq: ..., accel: ... }\nvar dataFFT = msg.payload;\n\n// 1. Field (Pastikan nilai tetap angka, jika null/undefined jadikan 0)\nmsg.payload = {\n    nilai_frekuensi: dataFFT.freq || 0,\n    magnitude: dataFFT.accel || 0\n};\n\n// 2. Measurement (Satu identitas sensor)\nmsg.measurement = \"sensor_vibrasi_1\";\n\n// 3. Tags (Metadata pembeda)\nmsg.tags = {\n    device: \"Kereta_Inspeksi_PNM\",\n    domain: \"frequency_domain\",\n    posisi: \"Bogie_Kanan_Depan\"\n};\n\n// --- STATUS SELALU HIJAU ---\n// Menandakan data (apapun nilainya) sedang diteruskan ke InfluxDB\nnode.status({\n    fill: \"green\",\n    shape: \"dot\",\n    text: \"Kirim data Sensor_Vibrasi_1 (\" + (dataFFT.freq || 0) + \" Hz)\"\n});\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 870,
+        "y": 560,
+        "wires": [
+            [
+                "a1ce47042b7ebeda"
+            ]
+        ]
+    },
+    {
+        "id": "a1ce47042b7ebeda",
+        "type": "influxdb out",
+        "z": "5e92caaf27235ee2",
+        "g": "1038aba79d17f7d1",
+        "influxdb": "68d6e85445db4f0a",
+        "name": "database_frekuensi",
+        "measurement": "sensor_vibrasi_1",
+        "precision": "",
+        "retentionPolicy": "",
+        "database": "database",
+        "precisionV18FluxV20": "ms",
+        "retentionPolicyV18Flux": "",
+        "org": "Perkeretaapian",
+        "bucket": "getaran",
+        "x": 1050,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "405e036e4daf4c92",
+        "type": "function",
+        "z": "5e92caaf27235ee2",
+        "g": "1038aba79d17f7d1",
+        "name": "Kirim Database",
+        "func": "// Data masuk dari function sebelumnya: { wz: \"2.10\", status: \"Baik\" }\nvar dataRI = msg.payload;\nvar wzValue = parseFloat(dataRI.wz) || 0;\n\n// 1. Format Payload untuk InfluxDB (Field)\nmsg.payload = {\n    ride_index: wzValue,\n    status_kenyamanan: dataRI.status // Ditambahkan sebagai Field agar masuk ke database sebagai nilai\n};\n\n// 2. Measurement disamakan agar satu identitas sensor\nmsg.measurement = \"sensor_vibrasi_1\";\n\n// 3. Tags untuk Identifikasi & Metadata\nmsg.tags = {\n    device: \"Kereta_Inspeksi_PNM\",\n    klasifikasi: dataRI.status, // Tetap ada di tags untuk filter cepat\n\n};\n\n// --- LOGIKA NOTIFIKASI STATUS DI BAWAH NODE ---\nvar color = \"green\";\nif (wzValue >= 4.0) color = \"red\";       \nelse if (wzValue >= 2.5) color = \"yellow\"; \n\nnode.status({\n    fill: color, \n    shape: \"dot\", \n    text: \"Kirim data Sensor_Vibrasi_1 | Wz: \" + wzValue.toFixed(2) + \" (\" + dataRI.status + \")\"\n});\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1040,
+        "y": 740,
+        "wires": [
+            [
+                "64b138458162c54e"
+            ]
+        ]
+    },
+    {
+        "id": "64b138458162c54e",
+        "type": "influxdb out",
+        "z": "5e92caaf27235ee2",
+        "g": "1038aba79d17f7d1",
+        "influxdb": "68d6e85445db4f0a",
+        "name": "database Ride Index",
+        "measurement": "sensor_vibrasi_1",
+        "precision": "",
+        "retentionPolicy": "",
+        "database": "database",
+        "precisionV18FluxV20": "ms",
+        "retentionPolicyV18Flux": "",
+        "org": "Perkeretaapian",
+        "bucket": "getaran",
+        "x": 1260,
+        "y": 740,
+        "wires": []
+    },
+    {
+        "id": "348baf8fd8ffdc74",
+        "type": "mqtt in",
+        "z": "5e92caaf27235ee2",
+        "g": "c0b43d2d3bf4b154",
+        "name": "",
+        "topic": "node-1",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "4cfc3688e72f2f9f",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 1630,
+        "y": 560,
+        "wires": [
+            [
+                "265914d4797287a4",
+                "074c38191bed4ea4",
+                "0f4837519b6c358f"
+            ]
+        ]
+    },
+    {
+        "id": "074c38191bed4ea4",
+        "type": "function",
+        "z": "5e92caaf27235ee2",
+        "g": "c0b43d2d3bf4b154",
+        "name": "Nilai Peak Getaran",
+        "func": "// Mengambil array dari payload\nvar dataX = msg.payload.x;\nvar dataY = msg.payload.y;\nvar dataZ = msg.payload.z;\n\nfunction getPeak(arr) {\n    if (!arr || !Array.isArray(arr) || arr.length === 0) return 0;\n    \n    var peak = arr[0];\n    for (var i = 1; i < arr.length; i++) {\n        // Bandingkan kekuatan getaran (magnitudo) tanpa menghilangkan tanda +/-\n        if (Math.abs(arr[i]) > Math.abs(peak)) {\n            peak = arr[i];\n        }\n    }\n    return parseFloat(peak.toFixed(3));\n}\n\n// Menghitung nilai puncak (tetap mempertahankan tanda +/-)\nvar px = getPeak(dataX);\nvar py = getPeak(dataY);\nvar pz = getPeak(dataZ);\n\n// Output\nreturn [\n    { payload: px, topic: \"Sumbu_X\" }, \n    { payload: py, topic: \"Sumbu_Y\" }, \n    { payload: pz, topic: \"Sumbu_Z\" }\n];",
+        "outputs": 3,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1830,
+        "y": 280,
+        "wires": [
+            [
+                "c44619968c724f5e",
+                "ee05afb02bba48af"
+            ],
+            [
+                "cd691c139ea47c34",
+                "037abfc7857b7634"
+            ],
+            [
+                "f901beab55e0e643",
+                "2c16111036778946"
+            ]
+        ]
+    },
+    {
+        "id": "c44619968c724f5e",
+        "type": "ui-chart",
+        "z": "5e92caaf27235ee2",
+        "g": "c0b43d2d3bf4b154",
+        "group": "32f69a7b5cccc6b3",
+        "name": "",
+        "label": "Sumbu X",
+        "order": 4,
+        "chartType": "line",
+        "category": "topic",
+        "categoryType": "msg",
+        "xAxisLabel": "Waktu",
+        "xAxisProperty": "",
+        "xAxisPropertyType": "timestamp",
+        "xAxisType": "time",
+        "xAxisFormat": "",
+        "xAxisFormatType": "auto",
+        "xmin": "",
+        "xmax": "",
+        "yAxisLabel": "Vibrasi",
+        "yAxisProperty": "payload",
+        "yAxisPropertyType": "msg",
+        "ymin": "-2",
+        "ymax": "2",
+        "bins": 10,
+        "action": "append",
+        "stackSeries": false,
+        "pointShape": "circle",
+        "pointRadius": 4,
+        "showLegend": false,
+        "removeOlder": 1,
+        "removeOlderUnit": "60",
+        "removeOlderPoints": "300",
+        "colors": [
+            "#0095ff",
+            "#ff0000",
+            "#ff7f0e",
+            "#2ca02c",
+            "#a347e1",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "textColor": [
+            "#666666"
+        ],
+        "textColorDefault": true,
+        "gridColor": [
+            "#e5e5e5"
+        ],
+        "gridColorDefault": true,
+        "width": 2,
+        "height": 7,
+        "className": "",
+        "interpolation": "linear",
+        "x": 2060,
+        "y": 160,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "cd691c139ea47c34",
+        "type": "ui-chart",
+        "z": "5e92caaf27235ee2",
+        "g": "c0b43d2d3bf4b154",
+        "group": "32f69a7b5cccc6b3",
+        "name": "",
+        "label": "Sumbu Y",
+        "order": 5,
+        "chartType": "line",
+        "category": "topic",
+        "categoryType": "msg",
+        "xAxisLabel": "Waktu",
+        "xAxisProperty": "",
+        "xAxisPropertyType": "timestamp",
+        "xAxisType": "time",
+        "xAxisFormat": "",
+        "xAxisFormatType": "auto",
+        "xmin": "",
+        "xmax": "",
+        "yAxisLabel": "Vibrasi",
+        "yAxisProperty": "payload",
+        "yAxisPropertyType": "msg",
+        "ymin": "-2",
+        "ymax": "2",
+        "bins": 10,
+        "action": "append",
+        "stackSeries": false,
+        "pointShape": "circle",
+        "pointRadius": 4,
+        "showLegend": false,
+        "removeOlder": 1,
+        "removeOlderUnit": "60",
+        "removeOlderPoints": "300",
+        "colors": [
+            "#0095ff",
+            "#ff0000",
+            "#ff7f0e",
+            "#2ca02c",
+            "#a347e1",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "textColor": [
+            "#666666"
+        ],
+        "textColorDefault": true,
+        "gridColor": [
+            "#e5e5e5"
+        ],
+        "gridColorDefault": true,
+        "width": 2,
+        "height": 7,
+        "className": "",
+        "interpolation": "linear",
+        "x": 2060,
+        "y": 280,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f901beab55e0e643",
+        "type": "ui-chart",
+        "z": "5e92caaf27235ee2",
+        "g": "c0b43d2d3bf4b154",
+        "group": "32f69a7b5cccc6b3",
+        "name": "",
+        "label": "Sumbu Z",
+        "order": 6,
+        "chartType": "line",
+        "category": "topic",
+        "categoryType": "msg",
+        "xAxisLabel": "Waktu",
+        "xAxisProperty": "",
+        "xAxisPropertyType": "timestamp",
+        "xAxisType": "time",
+        "xAxisFormat": "",
+        "xAxisFormatType": "auto",
+        "xmin": "",
+        "xmax": "",
+        "yAxisLabel": "Vibrasi",
+        "yAxisProperty": "payload",
+        "yAxisPropertyType": "msg",
+        "ymin": "-2",
+        "ymax": "2",
+        "bins": 10,
+        "action": "append",
+        "stackSeries": false,
+        "pointShape": "circle",
+        "pointRadius": 4,
+        "showLegend": false,
+        "removeOlder": 1,
+        "removeOlderUnit": "60",
+        "removeOlderPoints": "300",
+        "colors": [
+            "#0095ff",
+            "#ff0000",
+            "#ff7f0e",
+            "#2ca02c",
+            "#a347e1",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "textColor": [
+            "#666666"
+        ],
+        "textColorDefault": true,
+        "gridColor": [
+            "#e5e5e5"
+        ],
+        "gridColorDefault": true,
+        "width": 2,
+        "height": 7,
+        "className": "",
+        "interpolation": "linear",
+        "x": 2060,
+        "y": 400,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "265914d4797287a4",
+        "type": "function",
+        "z": "5e92caaf27235ee2",
+        "g": "c0b43d2d3bf4b154",
+        "name": "Buffer Sumbu Z",
+        "func": "var bufferZ = context.get('bufferZ') || [];\n\n// Ambil array sumbu Z dari JSON ESP32\nvar incomingZ = msg.payload.z; \n\nif (Array.isArray(incomingZ)) {\n    bufferZ = bufferZ.concat(incomingZ);\n}\n\n// Jika sudah terkumpul 200 data\nif (bufferZ.length >= 200) {\n    msg.payload = bufferZ.slice(0, 200); // Kirim 200 data ke FFT\n    context.set('bufferZ', bufferZ.slice(200)); // Simpan sisa jika ada\n    return msg;\n} else {\n    context.set('bufferZ', bufferZ);\n    return null; // Tunggu data terkumpul\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1820,
+        "y": 560,
+        "wires": [
+            [
+                "e38ac0c4de2c453e"
+            ]
+        ]
+    },
+    {
+        "id": "e38ac0c4de2c453e",
+        "type": "function",
+        "z": "5e92caaf27235ee2",
+        "g": "c0b43d2d3bf4b154",
+        "name": "Analisis FFT",
+        "func": "// ================================\n// ANALISIS FFT RODA (FULL VERSION)\n// ================================\n\n// --- 1. PARAMETER ---\nvar inputData = msg.payload.slice(); // copy array\nvar Fs = 200; // Sampling frequency\n\n// --- 2. ZERO PADDING KE PANGKAT 2 ---\nfunction nextPowerOf2(n){\n    return Math.pow(2, Math.ceil(Math.log2(n)));\n}\n\nvar originalLength = inputData.length;\nvar N = nextPowerOf2(originalLength);\n\nwhile(inputData.length < N){\n    inputData.push(0);\n}\n\n// --- 3. MEAN REMOVAL ---\nlet mean = inputData.reduce((a,b)=>a+b,0)/N;\ninputData = inputData.map(v => v - mean);\n\n// --- 4. HAMMING WINDOW ---\ninputData = inputData.map((v,n)=>{\n    let w = 0.54 - 0.46 * Math.cos((2*Math.PI*n)/(N-1));\n    return v*w;\n});\n\n// --- 5. FFT COOLEY-TUKEY RECURSIVE ---\nfunction fft(signal){\n    var N = signal.length;\n    if(N <= 1) return [{re: signal[0], im: 0}];\n\n    var even = [];\n    var odd = [];\n\n    for(var i=0;i<N;i++){\n        (i%2===0 ? even : odd).push(signal[i]);\n    }\n\n    even = fft(even);\n    odd = fft(odd);\n\n    var T = new Array(N);\n\n    for(var k=0;k<N/2;k++){\n        var angle = -2*Math.PI*k/N;\n        var cos = Math.cos(angle);\n        var sin = Math.sin(angle);\n\n        var tre = cos*odd[k].re - sin*odd[k].im;\n        var tim = sin*odd[k].re + cos*odd[k].im;\n\n        T[k] = {\n            re: even[k].re + tre,\n            im: even[k].im + tim\n        };\n\n        T[k+N/2] = {\n            re: even[k].re - tre,\n            im: even[k].im - tim\n        };\n    }\n    return T;\n}\n\nvar fftResult = fft(inputData);\n\n// --- 6. MAGNITUDE & PEAK DETECTION ---\nvar spectrum = [];\nvar maxVal = 0;\nvar peakFreq = 0;\nvar noiseThreshold = 0.03;\nvar maxFreqTarget = 100;\n\nfor(let k=1; k<N/2; k++){\n    let magnitude = (Math.sqrt(\n        fftResult[k].re*fftResult[k].re +\n        fftResult[k].im*fftResult[k].im\n    ) / N) * 2;\n\n    let freq = k * Fs / N;\n\n    if(freq <= maxFreqTarget){\n        spectrum.push({freq: freq, val: magnitude});\n\n        if(magnitude > maxVal && magnitude > noiseThreshold){\n            maxVal = magnitude;\n            peakFreq = parseFloat(freq.toFixed(1));\n        }\n    }\n}\n\nif(maxVal < noiseThreshold){\n    peakFreq = 0;\n    maxVal = 0;\n}\n\n// --- 7. VISUALISASI SVG ---\nlet vW = 600; \nlet vH = 350; \nlet m = { top: 40, right: 30, bottom: 65, left: 75 }; \nlet graphW = vW - m.left - m.right;\nlet graphH = vH - m.top - m.bottom;\n\nlet displayMax = Math.max(maxVal, 0.1);\n\nlet gridY = \"\"; \nfor (let j = 0; j <= 4; j++) {\n    let p = j / 4;\n    let y = vH - m.bottom - (p * graphH);\n    gridY += `<line x1=\"${m.left}\" y1=\"${y}\" x2=\"${vW-m.right}\" y2=\"${y}\" stroke=\"#444\" stroke-dasharray=\"4,4\" />`;\n    gridY += `<text x=\"${m.left-10}\" y=\"${y+4}\" fill=\"#ccc\" font-size=\"12\" text-anchor=\"end\">${(displayMax*p).toFixed(2)}</text>`;\n}\n\nlet gridX = \"\";\nfor (let i = 0; i <= 10; i++) {\n    let fL = i * 10;\n    let x = m.left + (fL / maxFreqTarget) * graphW;\n    gridX += `<line x1=\"${x}\" y1=\"${m.top}\" x2=\"${x}\" y2=\"${vH-m.bottom}\" stroke=\"#444\" stroke-dasharray=\"2,2\" />`;\n    gridX += `<text x=\"${x}\" y=\"${vH-m.bottom+25}\" fill=\"#ccc\" font-size=\"12\" text-anchor=\"middle\">${fL}</text>`;\n}\n\nlet points = \"\";\nspectrum.forEach(item => {\n    let x = m.left + (item.freq / maxFreqTarget) * graphW;\n    let y = vH - m.bottom - ((item.val / displayMax) * graphH);\n    points += `${x.toFixed(1)},${y.toFixed(1)} `;\n});\n\nvar html = `\n<div style=\"background:#1e1e1e; padding:15px; border-radius:10px; font-family:sans-serif; border: 2px solid #333; color:white;\">\n    <div style=\"text-align:center; color:#ff4d4d; font-size:16px; margin-bottom:10px; font-weight:bold;\">\n        ANALISIS SPEKTRUM FREKUENSI RODA BENJOL (FFT)\n    </div>\n    <svg viewBox=\"0 0 ${vW} ${vH}\" style=\"width:100%; height:auto;\">\n        ${gridY} ${gridX}\n        <polyline points=\"${points}\" fill=\"none\" stroke=\"#ff4d4d\" stroke-width=\"2.5\" stroke-linejoin=\"round\" />\n        <text x=\"${m.left + graphW/2}\" y=\"${vH-5}\" fill=\"#ccc\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"bold\">\n            Frekuensi (Hz)\n        </text>\n    </svg>\n    <div style=\"text-align:center; margin-top:15px; padding:10px; background:#2a0000; border: 1px solid #ff4d4d; border-radius:5px;\">\n        <span style=\"color:#aaa; font-size:14px;\">Puncak Dominan:</span> \n        <span style=\"color:#ff4d4d; font-size:22px; font-weight:bold; margin-left:10px;\">\n            ${peakFreq} Hz\n        </span>\n    </div>\n</div>`;\n\n// --- 8. OUTPUT ---\nreturn [\n    { payload: html },\n    { payload: peakFreq },\n    { payload: { freq: peakFreq, accel: maxVal } }\n];",
+        "outputs": 3,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2050,
+        "y": 560,
+        "wires": [
+            [
+                "46a7f98db7868542"
+            ],
+            [],
+            [
+                "75fc574ea9c7c3ac",
+                "a565f66c44eedd08"
+            ]
+        ]
+    },
+    {
+        "id": "46a7f98db7868542",
+        "type": "ui-template",
+        "z": "5e92caaf27235ee2",
+        "g": "c0b43d2d3bf4b154",
+        "group": "3ed5d8e3067c8fb0",
+        "page": "",
+        "ui": "",
+        "name": "",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "head": "",
+        "format": "<div v-html=\"msg.payload\"></div>",
+        "storeOutMessages": true,
+        "passthru": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 2220,
+        "y": 560,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "75fc574ea9c7c3ac",
+        "type": "function",
+        "z": "5e92caaf27235ee2",
+        "g": "c0b43d2d3bf4b154",
+        "name": "function 3",
+        "func": "let f = msg.payload.freq; \nlet accel_g = msg.payload.accel; \nlet a = accel_g * 980.665; // Konversi ke cm/s^2\n\nlet Wz = 0;\nlet klasifikasi = \"\";\n\n// Faktor Bobot B(f) Vertikal\nlet k = 0.588;\nlet f2 = Math.pow(f, 2);\nlet f3 = Math.pow(f, 3);\nlet pembilang = 1.911 * f2 + Math.pow(0.25 * f2, 2);\nlet penyebut = Math.pow(1 - 0.277 * f2, 2) + Math.pow(1.563 * f - 0.0368 * f3, 2);\nlet Bf = k * Math.sqrt(pembilang / penyebut);\n\n// Rumus Sperling Index\nif (a > 0 && f > 0) {\n    Wz = Math.pow(Math.pow(a, 3) * Math.pow(Bf, 3), 0.1);\n}\n\n// Klasifikasi\nif (Wz <= 2.0) klasifikasi = \"Sangat Baik\";\nelse if (Wz <= 2.5) klasifikasi = \"Baik\";\nelse if (Wz <= 3.0) klasifikasi = \"Cukup\";\nelse if (Wz <= 3.5) klasifikasi = \"Kurang\";\nelse klasifikasi = \"Buruk/Bahaya\";\n\nmsg.payload = {\n    wz: Wz.toFixed(2),\n    status: klasifikasi\n};\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2240,
+        "y": 660,
+        "wires": [
+            [
+                "06fa9edd01cb1f60",
+                "b10b7de58145b17e"
+            ]
+        ]
+    },
+    {
+        "id": "06fa9edd01cb1f60",
+        "type": "ui-template",
+        "z": "5e92caaf27235ee2",
+        "g": "c0b43d2d3bf4b154",
+        "group": "cd30dfadafd1f9a7",
+        "page": "",
+        "ui": "",
+        "name": "",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "head": "",
+        "format": "<div style=\"padding: 15px; border-radius: 12px; font-family: sans-serif; text-align: center; color: white;\" :style=\"{\n        'background': msg.payload.wz <= 2.5 ? '#1b5e20' : (msg.payload.wz <= 3.5 ? '#f57f17' : '#b71c1c'),\n        'border': '2px solid rgba(255,255,255,0.2)'\n     }\">\n    <div style=\"font-size: 12px; opacity: 0.8;\">SPERLING RIDE INDEX</div>\n    <div style=\"font-size: 42px; font-weight: bold; margin: 5px 0;\">{{msg.payload.wz}}</div>\n    <div style=\"font-size: 18px; font-weight: 600; padding: 4px 10px; background: rgba(0,0,0,0.3); border-radius: 8px;\">\n        {{msg.payload.status}}\n    </div>\n</div>",
+        "storeOutMessages": true,
+        "passthru": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 2460,
+        "y": 660,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ee05afb02bba48af",
+        "type": "ui-gauge",
+        "z": "5e92caaf27235ee2",
+        "g": "c0b43d2d3bf4b154",
+        "name": "gauge",
+        "group": "32f69a7b5cccc6b3",
+        "order": 1,
+        "value": "payload",
+        "valueType": "msg",
+        "width": 2,
+        "height": 3,
+        "gtype": "gauge-half",
+        "gstyle": "needle",
+        "title": "Sumbu X",
+        "alwaysShowTitle": false,
+        "floatingTitlePosition": "top-left",
+        "units": "g",
+        "icon": "",
+        "prefix": "",
+        "suffix": "",
+        "segments": [
+            {
+                "from": "0",
+                "color": "#5cd65c",
+                "text": "",
+                "textType": "label"
+            },
+            {
+                "from": "1",
+                "color": "#ea5353",
+                "text": "",
+                "textType": "label"
+            }
+        ],
+        "min": 0,
+        "max": "2",
+        "sizeThickness": 16,
+        "sizeGap": 4,
+        "sizeKeyThickness": 8,
+        "styleRounded": true,
+        "styleGlow": false,
+        "className": "",
+        "x": 2050,
+        "y": 220,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "037abfc7857b7634",
+        "type": "ui-gauge",
+        "z": "5e92caaf27235ee2",
+        "g": "c0b43d2d3bf4b154",
+        "name": "gauge",
+        "group": "32f69a7b5cccc6b3",
+        "order": 3,
+        "value": "payload",
+        "valueType": "msg",
+        "width": 2,
+        "height": 3,
+        "gtype": "gauge-half",
+        "gstyle": "needle",
+        "title": "Sumbu Y",
+        "alwaysShowTitle": false,
+        "floatingTitlePosition": "top-left",
+        "units": "g",
+        "icon": "",
+        "prefix": "",
+        "suffix": "",
+        "segments": [
+            {
+                "from": "0",
+                "color": "#5cd65c",
+                "text": "",
+                "textType": "label"
+            },
+            {
+                "from": "1",
+                "color": "#ea5353",
+                "text": "",
+                "textType": "label"
+            }
+        ],
+        "min": 0,
+        "max": "2",
+        "sizeThickness": 16,
+        "sizeGap": 4,
+        "sizeKeyThickness": 8,
+        "styleRounded": true,
+        "styleGlow": false,
+        "className": "",
+        "x": 2050,
+        "y": 340,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2c16111036778946",
+        "type": "ui-gauge",
+        "z": "5e92caaf27235ee2",
+        "g": "c0b43d2d3bf4b154",
+        "name": "gauge",
+        "group": "32f69a7b5cccc6b3",
+        "order": 2,
+        "value": "payload",
+        "valueType": "msg",
+        "width": 2,
+        "height": 3,
+        "gtype": "gauge-half",
+        "gstyle": "needle",
+        "title": "Sumbu Z",
+        "alwaysShowTitle": false,
+        "floatingTitlePosition": "top-left",
+        "units": "g",
+        "icon": "",
+        "prefix": "",
+        "suffix": "",
+        "segments": [
+            {
+                "from": "0",
+                "color": "#5cd65c",
+                "text": "",
+                "textType": "label"
+            },
+            {
+                "from": "1",
+                "color": "#ea5353",
+                "text": "",
+                "textType": "label"
+            }
+        ],
+        "min": 0,
+        "max": "2",
+        "sizeThickness": 16,
+        "sizeGap": 4,
+        "sizeKeyThickness": 8,
+        "styleRounded": true,
+        "styleGlow": false,
+        "className": "",
+        "x": 2050,
+        "y": 440,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0f4837519b6c358f",
+        "type": "function",
+        "z": "5e92caaf27235ee2",
+        "g": "c0b43d2d3bf4b154",
+        "name": "Kirim Database",
+        "func": "var dataX = msg.payload.x;\nvar dataY = msg.payload.y;\nvar dataZ = msg.payload.z;\n\nfunction getPeak(arr) {\n    if (!arr || !Array.isArray(arr) || arr.length === 0) return 0;\n    var peak = arr[0];\n    for (var i = 1; i < arr.length; i++) {\n        if (Math.abs(arr[i]) > Math.abs(peak)) { peak = arr[i]; }\n    }\n    return parseFloat(peak.toFixed(3));\n}\n\nvar px = getPeak(dataX);\nvar py = getPeak(dataY);\nvar pz = getPeak(dataZ);\n\n// --- PERUBAHAN STRUKTUR DI SINI ---\n\n// 1. Field (Nilai Utama)\nmsg.payload = {\n    sumbu_x: px,\n    sumbu_y: py,\n    sumbu_z: pz\n};\n\n// 2. Measurement diganti menjadi Nama Sensor\nmsg.measurement = \"sensor_vibrasi_2\"; \n\n// 3. Tags untuk informasi tambahan\nmsg.tags = {\n    device: \"Kereta_Inspeksi_PNM\",\n    domain: \"time_domain\", // Menandakan ini data domain waktu\n    posisi: \"Bogie_Kanan_Depan\"\n};\n\nnode.status({fill:\"green\", shape:\"dot\", text:\"Kirim data Sensor_Vibrasi_2\"});\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1820,
+        "y": 660,
+        "wires": [
+            [
+                "74cf69be6c2955e4"
+            ]
+        ]
+    },
+    {
+        "id": "74cf69be6c2955e4",
+        "type": "influxdb out",
+        "z": "5e92caaf27235ee2",
+        "g": "c0b43d2d3bf4b154",
+        "influxdb": "68d6e85445db4f0a",
+        "name": "Database_Getaran",
+        "measurement": "sensor_vibrasi_2",
+        "precision": "",
+        "retentionPolicy": "",
+        "database": "database",
+        "precisionV18FluxV20": "ms",
+        "retentionPolicyV18Flux": "",
+        "org": "Perkeretaapian",
+        "bucket": "getaran",
+        "x": 2050,
+        "y": 660,
+        "wires": []
+    },
+    {
+        "id": "a565f66c44eedd08",
+        "type": "function",
+        "z": "5e92caaf27235ee2",
+        "g": "c0b43d2d3bf4b154",
+        "name": "Database frekuensi",
+        "func": "// Data sudah matang dari output 3 Analisis FFT: { freq: ..., accel: ... }\nvar dataFFT = msg.payload;\n\n// 1. Field (Pastikan nilai tetap angka, jika null/undefined jadikan 0)\nmsg.payload = {\n    nilai_frekuensi: dataFFT.freq || 0,\n    magnitude: dataFFT.accel || 0\n};\n\n// 2. Measurement (Satu identitas sensor)\nmsg.measurement = \"sensor_vibrasi_2\";\n\n// 3. Tags (Metadata pembeda)\nmsg.tags = {\n    device: \"Kereta_Inspeksi_PNM\",\n    domain: \"frequency_domain\",\n    posisi: \"Bogie_Kanan_Depan\"\n};\n\n// --- STATUS SELALU HIJAU ---\n// Menandakan data (apapun nilainya) sedang diteruskan ke InfluxDB\nnode.status({\n    fill: \"green\",\n    shape: \"dot\",\n    text: \"Kirim data Sensor_Vibrasi_2 (\" + (dataFFT.freq || 0) + \" Hz)\"\n});\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2270,
+        "y": 600,
+        "wires": [
+            [
+                "7b15b03ec487d671"
+            ]
+        ]
+    },
+    {
+        "id": "7b15b03ec487d671",
+        "type": "influxdb out",
+        "z": "5e92caaf27235ee2",
+        "g": "c0b43d2d3bf4b154",
+        "influxdb": "68d6e85445db4f0a",
+        "name": "database_frekuensi",
+        "measurement": "sensor_vibrasi_2",
+        "precision": "",
+        "retentionPolicy": "",
+        "database": "database",
+        "precisionV18FluxV20": "ms",
+        "retentionPolicyV18Flux": "",
+        "org": "Perkeretaapian",
+        "bucket": "getaran",
+        "x": 2470,
+        "y": 600,
+        "wires": []
+    },
+    {
+        "id": "b10b7de58145b17e",
+        "type": "function",
+        "z": "5e92caaf27235ee2",
+        "g": "c0b43d2d3bf4b154",
+        "name": "Kirim Database",
+        "func": "// Data masuk dari function sebelumnya: { wz: \"2.10\", status: \"Baik\" }\nvar dataRI = msg.payload;\nvar wzValue = parseFloat(dataRI.wz) || 0;\n\n// 1. Format Payload untuk InfluxDB (Field)\nmsg.payload = {\n    ride_index: wzValue,\n    status_kenyamanan: dataRI.status // Ditambahkan sebagai Field agar masuk ke database sebagai nilai\n};\n\n// 2. Measurement disamakan agar satu identitas sensor\nmsg.measurement = \"sensor_vibrasi_2\";\n\n// 3. Tags untuk Identifikasi & Metadata\nmsg.tags = {\n    device: \"Kereta_Inspeksi_PNM\",\n    klasifikasi: dataRI.status, // Tetap ada di tags untuk filter cepat\n\n};\n\n// --- LOGIKA NOTIFIKASI STATUS DI BAWAH NODE ---\nvar color = \"green\";\nif (wzValue >= 4.0) color = \"red\";       \nelse if (wzValue >= 2.5) color = \"yellow\"; \n\nnode.status({\n    fill: color, \n    shape: \"dot\", \n    text: \"Kirim data Sensor_Vibrasi_2 | Wz: \" + wzValue.toFixed(2) + \" (\" + dataRI.status + \")\"\n});\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2300,
+        "y": 720,
+        "wires": [
+            [
+                "fabf664c531284f0"
+            ]
+        ]
+    },
+    {
+        "id": "fabf664c531284f0",
+        "type": "influxdb out",
+        "z": "5e92caaf27235ee2",
+        "g": "c0b43d2d3bf4b154",
+        "influxdb": "68d6e85445db4f0a",
+        "name": "database Ride Index",
+        "measurement": "sensor_vibrasi_2",
+        "precision": "",
+        "retentionPolicy": "",
+        "database": "database",
+        "precisionV18FluxV20": "ms",
+        "retentionPolicyV18Flux": "",
+        "org": "Perkeretaapian",
+        "bucket": "getaran",
+        "x": 2520,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "ca6c2bb05003148d",
+        "type": "function",
+        "z": "5e92caaf27235ee2",
+        "g": "5faf3c50468d128b",
+        "name": "Kirim Database",
+        "func": "var dataX = msg.payload.x;\nvar dataY = msg.payload.y;\nvar dataZ = msg.payload.z;\n\nfunction getPeak(arr) {\n    if (!arr || !Array.isArray(arr) || arr.length === 0) return 0;\n    var peak = arr[0];\n    for (var i = 1; i < arr.length; i++) {\n        if (Math.abs(arr[i]) > Math.abs(peak)) { peak = arr[i]; }\n    }\n    return parseFloat(peak.toFixed(3));\n}\n\nvar px = getPeak(dataX);\nvar py = getPeak(dataY);\nvar pz = getPeak(dataZ);\n\n// --- PERUBAHAN STRUKTUR DI SINI ---\n\n// 1. Field (Nilai Utama)\nmsg.payload = {\n    sumbu_x: px,\n    sumbu_y: py,\n    sumbu_z: pz\n};\n\n// 2. Measurement diganti menjadi Nama Sensor\nmsg.measurement = \"sensor_vibrasi_3\"; \n\n// 3. Tags untuk informasi tambahan\nmsg.tags = {\n    device: \"Kereta_Inspeksi_PNM\",\n    domain: \"time_domain\", // Menandakan ini data domain waktu\n    posisi: \"Bogie_Kanan_Depan\"\n};\n\nnode.status({fill:\"green\", shape:\"dot\", text:\"Kirim data Sensor_Vibrasi_3\"});\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2920,
+        "y": 720,
+        "wires": [
+            [
+                "fa0c9bdf5a2ccf0c"
+            ]
+        ]
+    },
+    {
+        "id": "fa0c9bdf5a2ccf0c",
+        "type": "influxdb out",
+        "z": "5e92caaf27235ee2",
+        "g": "5faf3c50468d128b",
+        "influxdb": "68d6e85445db4f0a",
+        "name": "Database_Getaran",
+        "measurement": "sensor_vibrasi_3",
+        "precision": "",
+        "retentionPolicy": "",
+        "database": "database",
+        "precisionV18FluxV20": "ms",
+        "retentionPolicyV18Flux": "",
+        "org": "Perkeretaapian",
+        "bucket": "getaran",
+        "x": 3150,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "316caa26625f30e9",
+        "type": "function",
+        "z": "5e92caaf27235ee2",
+        "g": "5faf3c50468d128b",
+        "name": "Database frekuensi",
+        "func": "// Data sudah matang dari output 3 Analisis FFT: { freq: ..., accel: ... }\nvar dataFFT = msg.payload;\n\n// 1. Field (Pastikan nilai tetap angka, jika null/undefined jadikan 0)\nmsg.payload = {\n    nilai_frekuensi: dataFFT.freq || 0,\n    magnitude: dataFFT.accel || 0\n};\n\n// 2. Measurement (Satu identitas sensor)\nmsg.measurement = \"sensor_vibrasi_3\";\n\n// 3. Tags (Metadata pembeda)\nmsg.tags = {\n    device: \"Kereta_Inspeksi_PNM\",\n    domain: \"frequency_domain\",\n    posisi: \"Bogie_Kanan_Depan\"\n};\n\n// --- STATUS SELALU HIJAU ---\n// Menandakan data (apapun nilainya) sedang diteruskan ke InfluxDB\nnode.status({\n    fill: \"green\",\n    shape: \"dot\",\n    text: \"Kirim data Sensor_Vibrasi_3 (\" + (dataFFT.freq || 0) + \" Hz)\"\n});\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3410,
+        "y": 680,
+        "wires": [
+            [
+                "fb75824dbb4d2021"
+            ]
+        ]
+    },
+    {
+        "id": "fb75824dbb4d2021",
+        "type": "influxdb out",
+        "z": "5e92caaf27235ee2",
+        "g": "5faf3c50468d128b",
+        "influxdb": "68d6e85445db4f0a",
+        "name": "database_frekuensi",
+        "measurement": "sensor_vibrasi_3",
+        "precision": "",
+        "retentionPolicy": "",
+        "database": "database",
+        "precisionV18FluxV20": "ms",
+        "retentionPolicyV18Flux": "",
+        "org": "Perkeretaapian",
+        "bucket": "getaran",
+        "x": 3610,
+        "y": 680,
+        "wires": []
+    },
+    {
+        "id": "d68a0a141c253b44",
+        "type": "function",
+        "z": "5e92caaf27235ee2",
+        "g": "5faf3c50468d128b",
+        "name": "Kirim Database",
+        "func": "// Data masuk dari function sebelumnya: { wz: \"2.10\", status: \"Baik\" }\nvar dataRI = msg.payload;\nvar wzValue = parseFloat(dataRI.wz) || 0;\n\n// 1. Format Payload untuk InfluxDB (Field)\nmsg.payload = {\n    ride_index: wzValue,\n    status_kenyamanan: dataRI.status // Ditambahkan sebagai Field agar masuk ke database sebagai nilai\n};\n\n// 2. Measurement disamakan agar satu identitas sensor\nmsg.measurement = \"sensor_vibrasi_3\";\n\n// 3. Tags untuk Identifikasi & Metadata\nmsg.tags = {\n    device: \"Kereta_Inspeksi_PNM\",\n    klasifikasi: dataRI.status, // Tetap ada di tags untuk filter cepat\n\n};\n\n// --- LOGIKA NOTIFIKASI STATUS DI BAWAH NODE ---\nvar color = \"green\";\nif (wzValue >= 4.0) color = \"red\";       \nelse if (wzValue >= 2.5) color = \"yellow\"; \n\nnode.status({\n    fill: color, \n    shape: \"dot\", \n    text: \"Kirim data Sensor_Vibrasi_3 | Wz: \" + wzValue.toFixed(2) + \" (\" + dataRI.status + \")\"\n});\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3380,
+        "y": 800,
+        "wires": [
+            [
+                "df5862694ae28007"
+            ]
+        ]
+    },
+    {
+        "id": "df5862694ae28007",
+        "type": "influxdb out",
+        "z": "5e92caaf27235ee2",
+        "g": "5faf3c50468d128b",
+        "influxdb": "68d6e85445db4f0a",
+        "name": "database Ride Index",
+        "measurement": "sensor_vibrasi_3",
+        "precision": "",
+        "retentionPolicy": "",
+        "database": "database",
+        "precisionV18FluxV20": "ms",
+        "retentionPolicyV18Flux": "",
+        "org": "Perkeretaapian",
+        "bucket": "getaran",
+        "x": 3600,
+        "y": 800,
+        "wires": []
+    },
+    {
+        "id": "02f88cc427bdf265",
+        "type": "function",
+        "z": "5e92caaf27235ee2",
+        "g": "83df340fa44f7595",
+        "name": "Database frekuensi",
+        "func": "// Data sudah matang dari output 3 Analisis FFT: { freq: ..., accel: ... }\nvar dataFFT = msg.payload;\n\n// 1. Field (Pastikan nilai tetap angka, jika null/undefined jadikan 0)\nmsg.payload = {\n    nilai_frekuensi: dataFFT.freq || 0,\n    magnitude: dataFFT.accel || 0\n};\n\n// 2. Measurement (Satu identitas sensor)\nmsg.measurement = \"sensor_vibrasi_4\";\n\n// 3. Tags (Metadata pembeda)\nmsg.tags = {\n    device: \"Kereta_Inspeksi_PNM\",\n    domain: \"frequency_domain\",\n    posisi: \"Bogie_Kanan_Depan\"\n};\n\n// --- STATUS SELALU HIJAU ---\n// Menandakan data (apapun nilainya) sedang diteruskan ke InfluxDB\nnode.status({\n    fill: \"green\",\n    shape: \"dot\",\n    text: \"Kirim data Sensor_Vibrasi_4 (\" + (dataFFT.freq || 0) + \" Hz)\"\n});\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 4710,
+        "y": 700,
+        "wires": [
+            [
+                "01d0438bcd3a18ab"
+            ]
+        ]
+    },
+    {
+        "id": "01d0438bcd3a18ab",
+        "type": "influxdb out",
+        "z": "5e92caaf27235ee2",
+        "g": "83df340fa44f7595",
+        "influxdb": "68d6e85445db4f0a",
+        "name": "database_frekuensi",
+        "measurement": "sensor_vibrasi_4",
+        "precision": "",
+        "retentionPolicy": "",
+        "database": "database",
+        "precisionV18FluxV20": "ms",
+        "retentionPolicyV18Flux": "",
+        "org": "Perkeretaapian",
+        "bucket": "getaran",
+        "x": 4910,
+        "y": 700,
+        "wires": []
+    },
+    {
+        "id": "e30bd7e7a26090d5",
+        "type": "function",
+        "z": "5e92caaf27235ee2",
+        "g": "83df340fa44f7595",
+        "name": "Kirim Database",
+        "func": "// Data masuk dari function sebelumnya: { wz: \"2.10\", status: \"Baik\" }\nvar dataRI = msg.payload;\nvar wzValue = parseFloat(dataRI.wz) || 0;\n\n// 1. Format Payload untuk InfluxDB (Field)\nmsg.payload = {\n    ride_index: wzValue,\n    status_kenyamanan: dataRI.status // Ditambahkan sebagai Field agar masuk ke database sebagai nilai\n};\n\n// 2. Measurement disamakan agar satu identitas sensor\nmsg.measurement = \"sensor_vibrasi_4\";\n\n// 3. Tags untuk Identifikasi & Metadata\nmsg.tags = {\n    device: \"Kereta_Inspeksi_PNM\",\n    klasifikasi: dataRI.status, // Tetap ada di tags untuk filter cepat\n\n};\n\n// --- LOGIKA NOTIFIKASI STATUS DI BAWAH NODE ---\nvar color = \"green\";\nif (wzValue >= 4.0) color = \"red\";       \nelse if (wzValue >= 2.5) color = \"yellow\"; \n\nnode.status({\n    fill: color, \n    shape: \"dot\", \n    text: \"Kirim data Sensor_Vibrasi_4 | Wz: \" + wzValue.toFixed(2) + \" (\" + dataRI.status + \")\"\n});\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 4680,
+        "y": 800,
+        "wires": [
+            [
+                "3dae0ed1956d0fe5"
+            ]
+        ]
+    },
+    {
+        "id": "3dae0ed1956d0fe5",
+        "type": "influxdb out",
+        "z": "5e92caaf27235ee2",
+        "g": "83df340fa44f7595",
+        "influxdb": "68d6e85445db4f0a",
+        "name": "database Ride Index",
+        "measurement": "sensor_vibrasi_4",
+        "precision": "",
+        "retentionPolicy": "",
+        "database": "database",
+        "precisionV18FluxV20": "ms",
+        "retentionPolicyV18Flux": "",
+        "org": "Perkeretaapian",
+        "bucket": "getaran",
+        "x": 4900,
+        "y": 800,
+        "wires": []
+    },
+    {
+        "id": "24eadd70b409825c",
+        "type": "function",
+        "z": "5e92caaf27235ee2",
+        "g": "83df340fa44f7595",
+        "name": "Kirim Database",
+        "func": "var dataX = msg.payload.x;\nvar dataY = msg.payload.y;\nvar dataZ = msg.payload.z;\n\nfunction getPeak(arr) {\n    if (!arr || !Array.isArray(arr) || arr.length === 0) return 0;\n    var peak = arr[0];\n    for (var i = 1; i < arr.length; i++) {\n        if (Math.abs(arr[i]) > Math.abs(peak)) { peak = arr[i]; }\n    }\n    return parseFloat(peak.toFixed(3));\n}\n\nvar px = getPeak(dataX);\nvar py = getPeak(dataY);\nvar pz = getPeak(dataZ);\n\n// --- PERUBAHAN STRUKTUR DI SINI ---\n\n// 1. Field (Nilai Utama)\nmsg.payload = {\n    sumbu_x: px,\n    sumbu_y: py,\n    sumbu_z: pz\n};\n\n// 2. Measurement diganti menjadi Nama Sensor\nmsg.measurement = \"sensor_vibrasi_4\"; \n\n// 3. Tags untuk informasi tambahan\nmsg.tags = {\n    device: \"Kereta_Inspeksi_PNM\",\n    domain: \"time_domain\", // Menandakan ini data domain waktu\n    posisi: \"Bogie_Kanan_Depan\"\n};\n\nnode.status({fill:\"green\", shape:\"dot\", text:\"Kirim data Sensor_Vibrasi_4\"});\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 4260,
+        "y": 720,
+        "wires": [
+            [
+                "6d6ae6ebf2c2d7f6"
+            ]
+        ]
+    },
+    {
+        "id": "6d6ae6ebf2c2d7f6",
+        "type": "influxdb out",
+        "z": "5e92caaf27235ee2",
+        "g": "83df340fa44f7595",
+        "influxdb": "68d6e85445db4f0a",
+        "name": "Database_Getaran",
+        "measurement": "sensor_vibrasi_4",
+        "precision": "",
+        "retentionPolicy": "",
+        "database": "database",
+        "precisionV18FluxV20": "ms",
+        "retentionPolicyV18Flux": "",
+        "org": "Perkeretaapian",
+        "bucket": "getaran",
+        "x": 4490,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "ea9ab40ca8a9b5c1",
+        "type": "influxdb in",
+        "z": "5e92caaf27235ee2",
+        "g": "41fbb0eae22949ba",
+        "influxdb": "68d6e85445db4f0a",
+        "name": "Ambil Data dari InfluxDB",
+        "query": "from(bucket: \"getaran\")\n  |> range(start: -1h)\n  // 1. Ambil data dari semua sensor vibrasi dan lokasi_kereta\n  |> filter(fn: (r) => \n    r[\"_measurement\"] == \"sensor_vibrasi_1\" or \n    r[\"_measurement\"] == \"sensor_vibrasi_2\" or \n    r[\"_measurement\"] == \"sensor_vibrasi_3\" or \n    r[\"_measurement\"] == \"sensor_vibrasi_4\" or\n    r[\"_measurement\"] == \"lokasi_kereta\"\n  )\n  // 2. Agregasi agar data dengan waktu berdekatan menyatu\n  |> aggregateWindow(every: 1s, fn: last, createEmpty: false)\n  // 3. Gabungkan field menjadi kolom ke samping\n  |> pivot(rowKey:[\"_time\"], columnKey: [\"_field\"], valueColumn: \"_value\")\n  // 4. Urutkan terbaru di atas\n  |> sort(columns: [\"_time\"], desc: true)",
+        "rawOutput": false,
+        "precision": "",
+        "retentionPolicy": "",
+        "org": "Perkeretaapian",
+        "x": 470,
+        "y": 1020,
+        "wires": [
+            [
+                "a073728e615edda3"
+            ]
+        ]
+    },
+    {
+        "id": "6b82bf3aa7ac4415",
+        "type": "http in",
+        "z": "5e92caaf27235ee2",
+        "g": "41fbb0eae22949ba",
+        "name": "Endpoint Download JSON",
+        "url": "/download/json",
+        "method": "get",
+        "upload": false,
+        "skipBodyParsing": false,
+        "swaggerDoc": "",
+        "x": 210,
+        "y": 1020,
+        "wires": [
+            [
+                "ea9ab40ca8a9b5c1"
+            ]
+        ]
+    },
+    {
+        "id": "a073728e615edda3",
+        "type": "function",
+        "z": "5e92caaf27235ee2",
+        "g": "41fbb0eae22949ba",
+        "name": "Format Data Unduh",
+        "func": "// 1. Ambil data hasil query InfluxDB\nvar dataDatabase = msg.payload;\n\n// --- LOGIKA PENGECEKAN DATA ---\nif (!dataDatabase || dataDatabase.length === 0) {\n    // KONDISI JIKA DATA KOSONG\n    node.status({fill:\"red\", shape:\"ring\", text:\"Gagal: Data Kosong\"});\n    \n    // Kirim pesan error ke browser agar user tahu kenapa tidak terunduh\n    msg.payload = JSON.stringify({ \n        status: \"error\", \n        message: \"Tidak ada data ditemukan pada rentang waktu tersebut.\" \n    }, null, 4);\n    \n    msg.headers = {\n        \"Content-Type\": \"application/json\",\n        \"Content-Disposition\": \"attachment; filename=ERROR_DATA_KOSONG.json\"\n    };\n} else {\n    // KONDISI JIKA DATA BERHASIL\n    node.status({fill:\"green\", shape:\"dot\", text:\"Berhasil mengirim \" + dataDatabase.length + \" baris\"});\n\n    // 2. Set Header agar browser mengenalinya sebagai file JSON\n    msg.headers = {\n        \"Content-Type\": \"application/json\",\n        \"Content-Disposition\": \"attachment; filename=log_bogie_pnm_rapi.json\"\n    };\n\n    // 3. Ubah menjadi JSON rapi\n    msg.payload = JSON.stringify(dataDatabase, null, 4);\n}\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 710,
+        "y": 1020,
+        "wires": [
+            [
+                "61edf767ec031769"
+            ]
+        ]
+    },
+    {
+        "id": "61edf767ec031769",
+        "type": "http response",
+        "z": "5e92caaf27235ee2",
+        "g": "41fbb0eae22949ba",
+        "name": "Kirim File ke User",
+        "statusCode": "",
+        "headers": {},
+        "x": 930,
+        "y": 1020,
+        "wires": []
+    },
+    {
+        "id": "68f8f677398669b3",
+        "type": "catch",
+        "z": "5e92caaf27235ee2",
+        "g": "1038aba79d17f7d1",
+        "name": "",
+        "scope": null,
+        "uncaught": false,
+        "x": 340,
+        "y": 40,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "574b3a4f5dd360d7",
+        "type": "function",
+        "z": "03812dbd1e6bc1ee",
+        "g": "cbac2e7fb20e7ed1",
+        "name": "Parser & Mapper GPS",
+        "func": "var input = msg.payload.toString();\nvar rawData = input.split(\",\");\n\nif (rawData.length >= 2) {\n    var lat = parseFloat(rawData[0]);\n    var lon = parseFloat(rawData[1]);\n\n    // 1. Objek untuk Marker Kereta\n    var msgMap = {\n        payload: {\n            name: \"Kereta Inspeksi PNM\",\n            lat: lat,\n            lon: lon,\n            icon: \"train\",\n            layer: \"Lokasi\",\n            action: \"replace\"\n        }\n    };\n\n    // 2. Objek Perintah Center (PENTING)\n    // Ini yang memaksa kamera peta pindah ke koordinat kereta\n    var msgCenter = {\n        payload: {\n            command: {\n                lat: lat,\n                lon: lon,\n                zoom: 18\n            }\n        }\n    };\n\n    // Output untuk Dashboard Text\n    var msgLat = { payload: lat.toFixed(6) };\n    var msgLon = { payload: lon.toFixed(6) };\n\n    // Urutan output: 1=Worldmap, 2=Lat, 3=Lon\n    // Karena msgMap dan msgCenter dikirim ke Worldmap, kita gabungkan atau kirim berurutan\n    return [[msgMap, msgCenter], msgLat, msgLon];\n}\nreturn null;",
+        "outputs": 3,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 440,
+        "y": 240,
+        "wires": [
+            [
+                "7f9efd5b9790a0d5"
+            ],
+            [
+                "de6bac2e4dba7560",
+                "650922678eb21ebe"
+            ],
+            [
+                "bbf8ce83758d0b4d"
+            ]
+        ]
+    },
+    {
+        "id": "7f9efd5b9790a0d5",
+        "type": "worldmap",
+        "z": "03812dbd1e6bc1ee",
+        "g": "cbac2e7fb20e7ed1",
+        "name": "",
+        "lat": "",
+        "lon": "",
+        "zoom": "18",
+        "layer": "OSMG",
+        "cluster": "",
+        "maxage": "",
+        "usermenu": "show",
+        "layers": "show",
+        "panit": "false",
+        "panlock": "false",
+        "zoomlock": "true",
+        "hiderightclick": "false",
+        "coords": "none",
+        "showgrid": "false",
+        "showruler": "false",
+        "allowFileDrop": "false",
+        "path": "/worldmap",
+        "overlist": "DR,CO,RA,DN",
+        "maplist": "OSMG,OSMC,EsriC,EsriS,UKOS",
+        "mapname": "",
+        "mapurl": "",
+        "mapopt": "",
+        "mapwms": false,
+        "x": 700,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "de6bac2e4dba7560",
+        "type": "ui-text-input",
+        "z": "03812dbd1e6bc1ee",
+        "g": "cbac2e7fb20e7ed1",
+        "group": "107e2a9fd72b8eb8",
+        "name": "Latitude",
+        "label": "Latitude",
+        "order": 2,
+        "width": 6,
+        "height": 0,
+        "topic": "topic",
+        "topicType": "msg",
+        "mode": "text",
+        "tooltip": "",
+        "delay": 300,
+        "passthru": true,
+        "sendOnDelay": false,
+        "sendOnBlur": true,
+        "sendOnEnter": true,
+        "className": "",
+        "clearable": false,
+        "sendOnClear": false,
+        "icon": "",
+        "iconPosition": "left",
+        "iconInnerPosition": "inside",
+        "x": 700,
+        "y": 280,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "650922678eb21ebe",
+        "type": "ui-template",
+        "z": "03812dbd1e6bc1ee",
+        "g": "cbac2e7fb20e7ed1",
+        "group": "107e2a9fd72b8eb8",
+        "page": "",
+        "ui": "",
+        "name": "",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "head": "",
+        "format": "<iframe src=\"/worldmap\" style=\"width:100%; height:500px; border:none;\"></iframe>",
+        "storeOutMessages": true,
+        "passthru": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 700,
+        "y": 220,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "bbf8ce83758d0b4d",
+        "type": "ui-text-input",
+        "z": "03812dbd1e6bc1ee",
+        "g": "cbac2e7fb20e7ed1",
+        "group": "107e2a9fd72b8eb8",
+        "name": "Longitude",
+        "label": "Longitude",
+        "order": 3,
+        "width": 6,
+        "height": 0,
+        "topic": "topic",
+        "topicType": "msg",
+        "mode": "text",
+        "tooltip": "",
+        "delay": 300,
+        "passthru": true,
+        "sendOnDelay": false,
+        "sendOnBlur": true,
+        "sendOnEnter": true,
+        "className": "",
+        "clearable": false,
+        "sendOnClear": false,
+        "icon": "",
+        "iconPosition": "left",
+        "iconInnerPosition": "inside",
+        "x": 700,
+        "y": 340,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6c4e99d5d9c2654b",
+        "type": "mqtt in",
+        "z": "03812dbd1e6bc1ee",
+        "g": "cbac2e7fb20e7ed1",
+        "name": "Input Data GPS",
+        "topic": "kereta/lokasi",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "4cfc3688e72f2f9f",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 200,
+        "y": 320,
+        "wires": [
+            [
+                "574b3a4f5dd360d7",
+                "a598c15c01afdaa0"
+            ]
+        ]
+    },
+    {
+        "id": "3ad097d5d0996291",
+        "type": "influxdb out",
+        "z": "03812dbd1e6bc1ee",
+        "g": "cbac2e7fb20e7ed1",
+        "influxdb": "68d6e85445db4f0a",
+        "name": "Database_Lokasi",
+        "measurement": "Sensor_Tracking",
+        "precision": "",
+        "retentionPolicy": "",
+        "database": "database",
+        "precisionV18FluxV20": "ms",
+        "retentionPolicyV18Flux": "",
+        "org": "Perkeretaapian",
+        "bucket": "lokasi_kereta",
+        "x": 730,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "a598c15c01afdaa0",
+        "type": "function",
+        "z": "03812dbd1e6bc1ee",
+        "g": "cbac2e7fb20e7ed1",
+        "name": "Kirim data ke Database",
+        "func": "// 1. Ambil data mentah dari MQTT\nvar input = msg.payload.toString();\nvar rawData = input.split(\",\");\n\n// Reset status setiap ada data baru masuk\nnode.status({fill:\"yellow\", shape:\"dot\", text:\"Processing...\"});\n\nif (rawData.length >= 2) {\n    var lat = parseFloat(rawData[0]);\n    var lon = parseFloat(rawData[1]);\n\n    // Validasi Angka\n    if (isNaN(lat) || isNaN(lon)) {\n        node.status({fill:\"red\", shape:\"ring\", text:\"Invalid Coordinates\"});\n        return null;\n    }\n\n    // 2. Format Object untuk InfluxDB\n    msg.payload = {\n        latitude: lat,\n        longitude: lon\n    };\n    \n    msg.measurement = \"Sensor_Tracking\"; \n    \n    msg.tags = {\n        device: \"Kereta Inspeksi PNM\",\n        lintas: \"LAB_Perkeretaapian\",\n    };\n\n    // PERBAIKAN DI SINI: Menggunakan .toFixed(6) agar semua angka GPS muncul di status node\n    node.status({\n        fill: \"green\", \n        shape: \"dot\", \n        text: \"Sent: \" + lat.toFixed(6) + \" , \" + lon.toFixed(6)\n    });\n    \n    return msg;\n} else {\n    node.status({fill:\"red\", shape:\"ring\", text:\"Format Error\"});\n    return null;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 450,
+        "y": 400,
+        "wires": [
+            [
+                "3ad097d5d0996291"
+            ]
+        ]
+    },
+    {
+        "id": "0a56ce1a71ddf8b4",
+        "type": "status",
+        "z": "03812dbd1e6bc1ee",
+        "name": "",
+        "scope": null,
+        "x": 280,
+        "y": 560,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "5c251f8a6d5470b4",
+        "type": "global-config",
+        "env": [],
+        "modules": {
+            "@flowfuse/node-red-dashboard": "1.30.2",
+            "node-red-contrib-influxdb": "0.7.0",
+            "node-red-contrib-web-worldmap": "5.5.6"
+        }
+    }
+]
